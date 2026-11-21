@@ -1,0 +1,5865 @@
+{
+  "سنة اولى": {
+    "برمجة 1": [
+      {
+        "num": "2",
+        "title": "Practical-Programming1-Lec-2",
+        "type": "عملي",
+        "date": "12-22-24",
+        "filename": "Practical-Programming1-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Programming1-Lec-3",
+        "type": "عملي",
+        "date": "12-22-24",
+        "filename": "Practical-Programming1-Lec-3.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Programming1-Lec-3",
+        "type": "نظري",
+        "date": "12-22-24",
+        "filename": "Theoretical-Programming1-Lec-3.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Programming1-Lec-1",
+        "type": "عملي",
+        "date": "12-3-24",
+        "filename": "Practical-Programming1-Lec-1.pdf"
+      },
+      {
+        "num": "1+2",
+        "title": "Theoretical-Programming1-Lec-1+2",
+        "type": "نظري",
+        "date": "12-3-24",
+        "filename": "Theoretical-Programming1-Lec-1+2.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Programming1-Lec-4",
+        "type": "نظري",
+        "date": "2-5-25",
+        "filename": "Theoretical-Programming1-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Programming1-Lec-5",
+        "type": "نظري",
+        "date": "2-5-25",
+        "filename": "Theoretical-Programming1-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Programming1-Lec-6",
+        "type": "نظري",
+        "date": "2-5-25",
+        "filename": "Theoretical-Programming1-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Programming1-Lec-7",
+        "type": "نظري",
+        "date": "3-1-25",
+        "filename": "Theoretical-Programming1-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Programming1-Lec-8",
+        "type": "نظري",
+        "date": "3-1-25",
+        "filename": "Theoretical-Programming1-Lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-Programming1-Lec-9",
+        "type": "نظري",
+        "date": "3-1-25",
+        "filename": "Theoretical-Programming1-Lec-9.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-TD-Programming1-Lec-1",
+        "type": "عملي",
+        "date": "12-22-25",
+        "filename": "Practical-TD-Programming1-Lec-1.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Programming1-Lec-1",
+        "type": "نظري",
+        "date": "12-22-25",
+        "filename": "Theoretical-Programming1-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Programming1-Lec-2",
+        "type": "نظري",
+        "date": "12-22-25",
+        "filename": "Theoretical-Programming1-Lec-2.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-TD-Programming1-Lec-2",
+        "type": "عملي",
+        "date": "12-25-25",
+        "filename": "Practical-TD-Programming1-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Programming1-Lec-3",
+        "type": "نظري",
+        "date": "12-25-25",
+        "filename": "Theoretical-Programming1-Lec-3.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Programming1-Lec-6",
+        "type": "نظري",
+        "date": "Feb 10",
+        "filename": "Theoretical-Programming1-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-programming1-lec-7",
+        "type": "نظري",
+        "date": "Feb 12",
+        "filename": "Theoretical-programming1-lec-7.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-TD-Programming1-Lec-6",
+        "type": "عملي",
+        "date": "Feb 17",
+        "filename": "Practical-TD-Programming1-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-TD-Programming1-Lec-7",
+        "type": "عملي",
+        "date": "Feb 17",
+        "filename": "Practical-TD-Programming1-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-programming1-lec-8",
+        "type": "نظري",
+        "date": "Feb 17",
+        "filename": "Theoretical-programming1-lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-programming1-lec-9",
+        "type": "نظري",
+        "date": "Feb 17",
+        "filename": "Theoretical-programming1-lec-9.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Programming1-Lec-1",
+        "type": "عملي",
+        "date": "Jan 1",
+        "filename": "Practical-Programming1-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Programming1-Lec-2",
+        "type": "عملي",
+        "date": "Jan 1",
+        "filename": "Practical-Programming1-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-TD-Programming1-Lec-3",
+        "type": "عملي",
+        "date": "Jan 1",
+        "filename": "Practical-TD-Programming1-Lec-3.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Programming1-Lec-5",
+        "type": "نظري",
+        "date": "Jan 16",
+        "filename": "Theoretical-Programming1-Lec-5.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-TD-Programming1-Lec-5",
+        "type": "عملي",
+        "date": "Jan 19",
+        "filename": "Practical-TD-Programming1-Lec-5.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Programming1-Lec-4",
+        "type": "عملي",
+        "date": "Jan 20",
+        "filename": "Practical-Programming1-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Programming1-Lec-5",
+        "type": "عملي",
+        "date": "Jan 20",
+        "filename": "Practical-Programming1-Lec-5.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-programming1-lec-4",
+        "type": "نظري",
+        "date": "Jan 6",
+        "filename": "Theoretical-programming1-lec-4.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Programming1-Lec-3",
+        "type": "عملي",
+        "date": "Jan 9",
+        "filename": "Practical-Programming1-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-TD-Programming1-Lec-4",
+        "type": "عملي",
+        "date": "Jan 9",
+        "filename": "Practical-TD-Programming1-Lec-4.pdf"
+      }
+    ],
+    "برمجة 2": [
+      {
+        "num": "1",
+        "title": "Theoretical-Programming2-lec1",
+        "type": "نظري",
+        "date": "6-18-25",
+        "filename": "Theoretical-Programming2-lec1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Programming2-lec2",
+        "type": "نظري",
+        "date": "6-18-25",
+        "filename": "Theoretical-Programming2-lec2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Programming2-lec3",
+        "type": "نظري",
+        "date": "6-18-25",
+        "filename": "Theoretical-Programming2-lec3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Programming2-lec4",
+        "type": "نظري",
+        "date": "6-25-25",
+        "filename": "Theoretical-Programming2-lec4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Programming2-lec5",
+        "type": "نظري",
+        "date": "6-25-25",
+        "filename": "Theoretical-Programming2-lec5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Programming2-lec6",
+        "type": "نظري",
+        "date": "6-25-25",
+        "filename": "Theoretical-Programming2-lec6.pdf"
+      },
+      {
+        "num": "1",
+        "title": "PracticalTD-Programming2-lec1 (2)",
+        "type": "عملي",
+        "date": "Apr 29",
+        "filename": "PracticalTD-Programming2-lec1 (2).pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-programming2-lec-4",
+        "type": "نظري",
+        "date": "Jul 4",
+        "filename": "Theoretical-programming2-lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-programming2-lec-5",
+        "type": "نظري",
+        "date": "Jul 4",
+        "filename": "Theoretical-programming2-lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-programming2-lec-6 (2)",
+        "type": "نظري",
+        "date": "Jul 4",
+        "filename": "Theoretical-programming2-lec-6 (2).pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-programming2-lec-7",
+        "type": "نظري",
+        "date": "Jul 4",
+        "filename": "Theoretical-programming2-lec-7.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Programming2-lec1",
+        "type": "عملي",
+        "date": "Jul 8",
+        "filename": "Practical-Programming2-lec1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Programming2-lec2",
+        "type": "عملي",
+        "date": "Jul 8",
+        "filename": "Practical-Programming2-lec2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Programming2-lec3",
+        "type": "عملي",
+        "date": "Jul 8",
+        "filename": "Practical-Programming2-lec3.pdf"
+      },
+      {
+        "num": "3",
+        "title": "PracticalTD-Programming2-lec3",
+        "type": "عملي",
+        "date": "Jul 8",
+        "filename": "PracticalTD-Programming2-lec3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "PracticalTD-Programming2-lec4",
+        "type": "عملي",
+        "date": "Jul 8",
+        "filename": "PracticalTD-Programming2-lec4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "PracticalTD-Programming2-lec5",
+        "type": "عملي",
+        "date": "Jul 8",
+        "filename": "PracticalTD-Programming2-lec5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "PracticalTD-Programming2-lec6",
+        "type": "عملي",
+        "date": "Jul 8",
+        "filename": "PracticalTD-Programming2-lec6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "PracticalTD-Programming2-lec7",
+        "type": "عملي",
+        "date": "Jul 8",
+        "filename": "PracticalTD-Programming2-lec7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "PracticalTD-Programming2-lec8",
+        "type": "عملي",
+        "date": "Jul 8",
+        "filename": "PracticalTD-Programming2-lec8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "PracticalTD-Programming2-lec9",
+        "type": "عملي",
+        "date": "Jul 8",
+        "filename": "PracticalTD-Programming2-lec9.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-programming2-lec-1",
+        "type": "نظري",
+        "date": "Jun 27",
+        "filename": "Theoretical-programming2-lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-programming2-lec-2",
+        "type": "نظري",
+        "date": "Jun 27",
+        "filename": "Theoretical-programming2-lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-programming2-lec-3",
+        "type": "نظري",
+        "date": "Jun 27",
+        "filename": "Theoretical-programming2-lec-3.pdf"
+      },
+      {
+        "num": "2",
+        "title": "PracticalTD-Programming2-lec2",
+        "type": "عملي",
+        "date": "May 19",
+        "filename": "PracticalTD-Programming2-lec2.pdf"
+      }
+    ],
+    "تحليل 1": [
+      {
+        "num": "3",
+        "title": "Practical-Mathematical-Analysis1-Lec-3",
+        "type": "عملي",
+        "date": "1-29-25",
+        "filename": "Practical-Mathematical-Analysis1-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Mathematical-Analysis1-Lec-4",
+        "type": "عملي",
+        "date": "1-29-25",
+        "filename": "Practical-Mathematical-Analysis1-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Mathematical-Analysis1-Lec-5",
+        "type": "عملي",
+        "date": "1-29-25",
+        "filename": "Practical-Mathematical-Analysis1-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-Mathematical-Analysis1-Lec-6 Dr.abeer",
+        "type": "عملي",
+        "date": "1-29-25",
+        "filename": "Practical-Mathematical-Analysis1-Lec-6 Dr.abeer.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-Mathematical-Analysis1-Lec-7 Dr.abeer",
+        "type": "عملي",
+        "date": "1-29-25",
+        "filename": "Practical-Mathematical-Analysis1-Lec-7 Dr.abeer.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Mathematical-Analysis1-Lec-1",
+        "type": "عملي",
+        "date": "12-3-24",
+        "filename": "Practical-Mathematical-Analysis1-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Mathematical-Analysis1-Lec-2",
+        "type": "عملي",
+        "date": "12-3-24",
+        "filename": "Practical-Mathematical-Analysis1-Lec-2.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Mathematical-Analysis1-Lec-4",
+        "type": "عملي",
+        "date": "Jan 16",
+        "filename": "Practical-Mathematical-Analysis1-Lec-4.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Mathematical-Analysis1-Lec-1",
+        "type": "عملي",
+        "date": "Jan 8",
+        "filename": "Practical-Mathematical-Analysis1-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Mathematical-Analysis1-Lec-2",
+        "type": "عملي",
+        "date": "Jan 8",
+        "filename": "Practical-Mathematical-Analysis1-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Mathematical-Analysis1-Lec-3",
+        "type": "عملي",
+        "date": "Jan 8",
+        "filename": "Practical-Mathematical-Analysis1-Lec-3.pdf"
+      }
+    ],
+    "تحليل 2": [
+      {
+        "num": "1",
+        "title": "Practical-Mathematical-Analysis2-Lec-1",
+        "type": "عملي",
+        "date": "6-1-25",
+        "filename": "Practical-Mathematical-Analysis2-Lec-1.pdf"
+      }
+    ],
+    "جبر عام": [
+      {
+        "num": "7",
+        "title": "Practical-Abstract-Algebra-Lec-7",
+        "type": "عملي",
+        "date": "1-29-25",
+        "filename": "Practical-Abstract-Algebra-Lec-7.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Abstract-Algebra-Lec-1-updated",
+        "type": "نظري",
+        "date": "1-29-25",
+        "filename": "Theoretical-Abstract-Algebra-Lec-1-updated.pdf"
+      },
+      {
+        "num": "2+3",
+        "title": "Theoretical-Abstract-Algebra-Lec-2+3-updated",
+        "type": "نظري",
+        "date": "1-29-25",
+        "filename": "Theoretical-Abstract-Algebra-Lec-2+3-updated.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Abstract-Algebra-Lec-4",
+        "type": "نظري",
+        "date": "1-29-25",
+        "filename": "Theoretical-Abstract-Algebra-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Abstract-Algebra-Lec-5",
+        "type": "نظري",
+        "date": "1-29-25",
+        "filename": "Theoretical-Abstract-Algebra-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Abstract-Algebra-Lec-6",
+        "type": "نظري",
+        "date": "1-29-25",
+        "filename": "Theoretical-Abstract-Algebra-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Abstract-Algebra-Lec-7",
+        "type": "نظري",
+        "date": "1-29-25",
+        "filename": "Theoretical-Abstract-Algebra-Lec-7 .pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Abstract-Algebra-Lec-8",
+        "type": "نظري",
+        "date": "1-29-25",
+        "filename": "Theoretical-Abstract-Algebra-Lec-8.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Abstract-Algebra-Lec-2",
+        "type": "عملي",
+        "date": "12-22-24",
+        "filename": "Practical-Abstract-Algebra-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Abstract-Algebra-Lec-3",
+        "type": "عملي",
+        "date": "12-22-24",
+        "filename": "Practical-Abstract-Algebra-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Abstract-Algebra-Lec-4",
+        "type": "عملي",
+        "date": "12-22-24",
+        "filename": "Practical-Abstract-Algebra-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Abstract-Algebra-Lec-5",
+        "type": "عملي",
+        "date": "12-22-24",
+        "filename": "Practical-Abstract-Algebra-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-Abstract-Algebra-Lec-6",
+        "type": "عملي",
+        "date": "12-22-24",
+        "filename": "Practical-Abstract-Algebra-Lec-6.pdf"
+      },
+      {
+        "num": "",
+        "title": "تمارين إضافية",
+        "type": "تمارين",
+        "date": "12-22-24",
+        "filename": "تمارين إضافية.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Abstract-Algebra-Lec-1",
+        "type": "عملي",
+        "date": "12-3-24",
+        "filename": "Practical-Abstract-Algebra-Lec-1.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Abstract-Algebra-Lec-1",
+        "type": "نظري",
+        "date": "12-22-25",
+        "filename": "Theoretical-Abstract-Algebra-Lec-1.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Abstract-Algebra-Lec-8",
+        "type": "نظري",
+        "date": "Feb 5",
+        "filename": "Theoretical-Abstract-Algebra-Lec-8.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Parctical-Abstract-Algabra-Lec-1",
+        "type": "عملي",
+        "date": "Jan 1",
+        "filename": "Parctical-Abstract-Algabra-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Parctical-Abstract-Algabra-Lec-2",
+        "type": "عملي",
+        "date": "Jan 1",
+        "filename": "Parctical-Abstract-Algabra-Lec-2.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Abstract-Algebra-Lec-2",
+        "type": "نظري",
+        "date": "Jan 1",
+        "filename": "Theoretical-Abstract-Algebra-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Abstract-Algebra-Lec-3",
+        "type": "نظري",
+        "date": "Jan 1",
+        "filename": "Theoretical-Abstract-Algebra-Lec-3.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Parctical-Abstract-Algabra-Lec-3",
+        "type": "عملي",
+        "date": "Jan 10",
+        "filename": "Parctical-Abstract-Algabra-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Parctical-Abstract-Algabra-Lec-4",
+        "type": "عملي",
+        "date": "Jan 10",
+        "filename": "Parctical-Abstract-Algabra-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Abstract-Algebra-Lec-5",
+        "type": "نظري",
+        "date": "Jan 26",
+        "filename": "Theoretical-Abstract-Algebra-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Abstract-Algebra-Lec-6",
+        "type": "نظري",
+        "date": "Jan 26",
+        "filename": "Theoretical-Abstract-Algebra-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Abstract-Algebra-Lec-7",
+        "type": "نظري",
+        "date": "Jan 30",
+        "filename": "Theoretical-Abstract-Algebra-Lec-7.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Abstract-Algebra-Lec-4",
+        "type": "نظري",
+        "date": "Jan 8",
+        "filename": "Theoretical-Abstract-Algebra-Lec-4.pdf"
+      }
+    ],
+    "جبر خطي": [
+      {
+        "num": "1",
+        "title": "Practical-LinearAlgebra-Lec_1",
+        "type": "عملي",
+        "date": "5-14-25",
+        "filename": "Practical-LinearAlgebra-Lec_1.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-LinearAlgebra-Lec-1",
+        "type": "نظري",
+        "date": "5-14-25",
+        "filename": "Theoretical-LinearAlgebra-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-LinearAlgebra-Lec-2",
+        "type": "نظري",
+        "date": "5-14-25",
+        "filename": "Theoretical-LinearAlgebra-Lec-2.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-LinearAlgebra-Lec_2",
+        "type": "عملي",
+        "date": "5-31-25",
+        "filename": "Practical-LinearAlgebra-Lec_2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-linearAlgebra-lec-3",
+        "type": "نظري",
+        "date": "5-31-25",
+        "filename": "Theoretical-linearAlgebra-lec-3.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-linearAlgebra-lec-5",
+        "type": "نظري",
+        "date": "5-31-25",
+        "filename": "Theoretical-linearAlgebra-lec-5.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-linearAlgebra-lec-4",
+        "type": "نظري",
+        "date": "6-1-25",
+        "filename": "Theoretical-linearAlgebra-lec-4.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-LinearAlgebra-Lec_3",
+        "type": "عملي",
+        "date": "6-18-25",
+        "filename": "Practical-LinearAlgebra-Lec_3.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-linearAlgebra-lec-6",
+        "type": "نظري",
+        "date": "6-18-25",
+        "filename": "Theoretical-linearAlgebra-lec-6.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-linear_algebra-lec-8",
+        "type": "نظري",
+        "date": "6-21-25",
+        "filename": "Theoretical-linear_algebra-lec-8.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-linear_algebra-lec-7",
+        "type": "نظري",
+        "date": "6-22-25",
+        "filename": "Theoretical-linear_algebra-lec-7 .pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-LinearAlgebra-Lec_4",
+        "type": "عملي",
+        "date": "6-25-25",
+        "filename": "Practical-LinearAlgebra-Lec_4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-LinearAlgebra-Lec_5",
+        "type": "عملي",
+        "date": "6-25-25",
+        "filename": "Practical-LinearAlgebra-Lec_5.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Practical-LinearAlgebra-Lec9",
+        "type": "عملي",
+        "date": "7-11-25",
+        "filename": "Practical-LinearAlgebra-Lec9 .pdf"
+      },
+      {
+        "num": "10",
+        "title": "Theoretical-linear_algebra-lec-10",
+        "type": "نظري",
+        "date": "7-16-25",
+        "filename": "Theoretical-linear_algebra-lec-10 .pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-linear_algebra-lec-9",
+        "type": "نظري",
+        "date": "7-16-25",
+        "filename": "Theoretical-linear_algebra-lec-9 .pdf"
+      },
+      {
+        "num": "8",
+        "title": "Practical-LineanAlgebra-Lec8",
+        "type": "عملي",
+        "date": "7-18-25",
+        "filename": "Practical-LineanAlgebra-Lec8.pdf"
+      },
+      {
+        "num": "11",
+        "title": "Theoretical-linear_algebra-lec-11",
+        "type": "نظري",
+        "date": "7-19-25",
+        "filename": "Theoretical-linear_algebra-lec-11.pdf"
+      },
+      {
+        "num": "12",
+        "title": "Theoretical-linear_algebra-lec-12",
+        "type": "نظري",
+        "date": "7-19-25",
+        "filename": "Theoretical-linear_algebra-lec-12.pdf"
+      },
+      {
+        "num": "13",
+        "title": "Theoretical-linear_algebra-lec-13",
+        "type": "نظري",
+        "date": "7-20-25",
+        "filename": "Theoretical-linear_algebra-lec-13.pdf"
+      },
+      {
+        "num": "14+15",
+        "title": "Theoretical-linear_algebra-lec-14+15",
+        "type": "نظري",
+        "date": "7-20-25",
+        "filename": "Theoretical-linear_algebra-lec-14+15 .pdf"
+      },
+      {
+        "num": "16",
+        "title": "Theoretical-linear_algebra-lec-16",
+        "type": "نظري",
+        "date": "7-20-25",
+        "filename": "Theoretical-linear_algebra-lec-16.pdf"
+      },
+      {
+        "num": "17",
+        "title": "Theoretical-linear_algebra-lec-17",
+        "type": "نظري",
+        "date": "7-20-25",
+        "filename": "Theoretical-linear_algebra-lec-17.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-LinearAlgebra-Lec6",
+        "type": "عملي",
+        "date": "7-7-25",
+        "filename": "Practical-LinearAlgebra-Lec6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-LinearAlgebra-Lec7",
+        "type": "عملي",
+        "date": "7-7-25",
+        "filename": "Practical-LinearAlgebra-Lec7.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Linear Algebra-Lec-1",
+        "type": "نظري",
+        "date": "Apr 30",
+        "filename": "Theoretical-Linear Algebra-Lec-1.pdf"
+      },
+      {
+        "num": "16",
+        "title": "Theoretical-Linear Algebra-Lec-16",
+        "type": "نظري",
+        "date": "Aug 7",
+        "filename": "Theoretical-Linear Algebra-Lec-16.pdf"
+      },
+      {
+        "num": "17",
+        "title": "Theoretical-Linear-Algebra-Lec-17",
+        "type": "نظري",
+        "date": "Aug 7",
+        "filename": "Theoretical-Linear-Algebra-Lec-17.pdf"
+      },
+      {
+        "num": "10",
+        "title": "Theoretical-Linear Algebra-Lec-10",
+        "type": "نظري",
+        "date": "Jul 24",
+        "filename": "Theoretical-Linear Algebra-Lec-10.pdf"
+      },
+      {
+        "num": "13",
+        "title": "Theoretical-Linear Algebra-Lec-13",
+        "type": "نظري",
+        "date": "Jul 24",
+        "filename": "Theoretical-Linear Algebra-Lec-13.pdf"
+      },
+      {
+        "num": "14",
+        "title": "Theoretical-Linear Algebra-Lec-14",
+        "type": "نظري",
+        "date": "Jul 24",
+        "filename": "Theoretical-Linear Algebra-Lec-14.pdf"
+      },
+      {
+        "num": "15",
+        "title": "Theoretical-Linear Algebra-Lec-15",
+        "type": "نظري",
+        "date": "Jul 24",
+        "filename": "Theoretical-Linear Algebra-Lec-15.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Linear Algebra-Lec-2",
+        "type": "نظري",
+        "date": "Jul 24",
+        "filename": "Theoretical-Linear Algebra-Lec-2.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-Linear-Algebra-Lec-7",
+        "type": "عملي",
+        "date": "Jul 4",
+        "filename": "Practical-Linear-Algebra-Lec-7.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Linear Algebra-Lec-4",
+        "type": "نظري",
+        "date": "Jun 1",
+        "filename": "Theoretical-Linear Algebra-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Linear Algebra-Lec-5",
+        "type": "نظري",
+        "date": "Jun 1",
+        "filename": "Theoretical-Linear Algebra-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Linear Algebra-Lec-6",
+        "type": "نظري",
+        "date": "Jun 1",
+        "filename": "Theoretical-Linear Algebra-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Linear Algebra-Lec-7",
+        "type": "نظري",
+        "date": "Jun 1",
+        "filename": "Theoretical-Linear Algebra-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Linear Algebra-Lec-8",
+        "type": "نظري",
+        "date": "Jun 1",
+        "filename": "Theoretical-Linear Algebra-Lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-Linear Algebra-Lec-9",
+        "type": "نظري",
+        "date": "Jun 1",
+        "filename": "Theoretical-Linear Algebra-Lec-9.pdf"
+      },
+      {
+        "num": "11",
+        "title": "Theoretical-Linear Algebra-Lec-11",
+        "type": "نظري",
+        "date": "Jun 27",
+        "filename": "Theoretical-Linear Algebra-Lec-11.pdf"
+      },
+      {
+        "num": "12",
+        "title": "Theoretical-Linear Algebra-Lec-12",
+        "type": "نظري",
+        "date": "Jun 27",
+        "filename": "Theoretical-Linear Algebra-Lec-12.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Linear-Algebra-Lec-1",
+        "type": "عملي",
+        "date": "May 10",
+        "filename": "Practical-Linear-Algebra-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Linear-Algebra-Lec-2",
+        "type": "عملي",
+        "date": "May 10",
+        "filename": "Practical-Linear-Algebra-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Linear-Algebra-Lec-3",
+        "type": "عملي",
+        "date": "May 10",
+        "filename": "Practical-Linear-Algebra-Lec-3.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Linear Algebra-Lec-3",
+        "type": "نظري",
+        "date": "May 10",
+        "filename": "Theoretical-Linear Algebra-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Linear-Algebra-Lec-4",
+        "type": "عملي",
+        "date": "May 19",
+        "filename": "Practical-Linear-Algebra-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Linear-Algebra-Lec-5",
+        "type": "عملي",
+        "date": "May 19",
+        "filename": "Practical-Linear-Algebra-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-Linear-Algebra-Lec-6",
+        "type": "عملي",
+        "date": "May 19",
+        "filename": "Practical-Linear-Algebra-Lec-6.pdf"
+      }
+    ],
+    "دارات كهربائية": [
+      {
+        "num": "1",
+        "title": "Theoretical-electrical_circuits-lec-1",
+        "type": "نظري",
+        "date": "5-10-25",
+        "filename": "Theoretical-electrical_circuits-lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-electrical_circuits-lec-2",
+        "type": "نظري",
+        "date": "5-10-25",
+        "filename": "Theoretical-electrical_circuits-lec-2.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-ElectricalCircuits-Lec-1",
+        "type": "عملي",
+        "date": "5-21-25",
+        "filename": "Practical-ElectricalCircuits-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-ElectricalCircuits-Lec-2",
+        "type": "عملي",
+        "date": "5-21-25",
+        "filename": "Practical-ElectricalCircuits-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-ElectricalCircuits-lec-3",
+        "type": "عملي",
+        "date": "5-21-25",
+        "filename": "Practical-ElectricalCircuits-lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-ElectricalCircuits-lec-4-",
+        "type": "عملي",
+        "date": "6-18-25",
+        "filename": "Practical-ElectricalCircuits-lec-4-.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-ElectricalCircuits-lec-5",
+        "type": "عملي",
+        "date": "6-28-25",
+        "filename": "Practical-ElectricalCircuits-lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-ElectricalCircuits-lec-6-",
+        "type": "عملي",
+        "date": "6-28-25",
+        "filename": "Practical-ElectricalCircuits-lec-6-.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-electrical_circuits-lec-3",
+        "type": "نظري",
+        "date": "6-28-25",
+        "filename": "Theoretical-electrical_circuits-lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-electrical_circuits-lec-4",
+        "type": "نظري",
+        "date": "6-28-25",
+        "filename": "Theoretical-electrical_circuits-lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-electrical_circuits-lec-5",
+        "type": "نظري",
+        "date": "6-28-25",
+        "filename": "Theoretical-electrical_circuits-lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-electrical_circuits-lec-6",
+        "type": "نظري",
+        "date": "6-28-25",
+        "filename": "Theoretical-electrical_circuits-lec-6.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Electrical-Circuits-Lec-1",
+        "type": "عملي",
+        "date": "Apr 27",
+        "filename": "Practical-Electrical-Circuits-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Electrical-Circuits-Lec-2",
+        "type": "عملي",
+        "date": "Apr 27",
+        "filename": "Practical-Electrical-Circuits-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Electrical-Circuits-Lec-3",
+        "type": "عملي",
+        "date": "Apr 27",
+        "filename": "Practical-Electrical-Circuits-Lec-3.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Electrical-Circuits-Lec-1",
+        "type": "نظري",
+        "date": "Apr 30",
+        "filename": "Theoretical-Electrical-Circuits-Lec-1.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Electrical-Circuits-Lec-4",
+        "type": "نظري",
+        "date": "Aug 7",
+        "filename": "Theoretical-Electrical-Circuits-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Electrical-Circuits-Lec-5",
+        "type": "نظري",
+        "date": "Aug 7",
+        "filename": "Theoretical-Electrical-Circuits-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Electrical-Circuits-Lec-6",
+        "type": "نظري",
+        "date": "Aug 7",
+        "filename": "Theoretical-Electrical-Circuits-Lec-6.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Electrical-Circuits-Lec-3",
+        "type": "نظري",
+        "date": "Jul 8",
+        "filename": "Theoretical-Electrical-Circuits-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Electrical-Circuits-Lec-4",
+        "type": "عملي",
+        "date": "Jun 1",
+        "filename": "Practical-Electrical-Circuits-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Electrical-Circuits-Lec-5",
+        "type": "عملي",
+        "date": "Jun 1",
+        "filename": "Practical-Electrical-Circuits-Lec-5.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Electrical-Circuits-Lec-2 (2)",
+        "type": "نظري",
+        "date": "Jun 1",
+        "filename": "Theoretical-Electrical-Circuits-Lec-2 (2).pdf"
+      }
+    ],
+    "فيزياء": [
+      {
+        "num": "1",
+        "title": "Practical-Physics-Lec-1",
+        "type": "عملي",
+        "date": "12-22-25",
+        "filename": "Practical-Physics-Lec-1.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Physics-Lec-1",
+        "type": "نظري",
+        "date": "12-22-25",
+        "filename": "Theoretical-Physics-Lec-1.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Physics-Lec-7",
+        "type": "نظري",
+        "date": "Feb 10",
+        "filename": "Theoretical-Physics-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Physics-Lec-8",
+        "type": "نظري",
+        "date": "Feb 10",
+        "filename": "Theoretical-Physics-Lec-8.pdf"
+      },
+      {
+        "num": "10",
+        "title": "Theoretical-Physics-Lec-10",
+        "type": "نظري",
+        "date": "Feb 27",
+        "filename": "Theoretical-Physics-Lec-10.pdf"
+      },
+      {
+        "num": "11",
+        "title": "Theoretical-Physics-Lec-11",
+        "type": "نظري",
+        "date": "Feb 27",
+        "filename": "Theoretical-Physics-Lec-11.pdf"
+      },
+      {
+        "num": "12",
+        "title": "Theoretical-Physics-Lec-12",
+        "type": "نظري",
+        "date": "Feb 27",
+        "filename": "Theoretical-Physics-Lec-12.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-Physics-Lec-9",
+        "type": "نظري",
+        "date": "Feb 27",
+        "filename": "Theoretical-Physics-Lec-9.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Physics-Lec-4",
+        "type": "نظري",
+        "date": "Feb 5",
+        "filename": "Theoretical-Physics-Lec-4.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Physics-Lec-6",
+        "type": "نظري",
+        "date": "Feb 5",
+        "filename": "Theoretical-Physics-Lec-6.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Physics-Lec-2",
+        "type": "عملي",
+        "date": "Jan 1",
+        "filename": "Practical-Physics-Lec-2.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Physics-Lec-4",
+        "type": "عملي",
+        "date": "Jan 16",
+        "filename": "Practical-Physics-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Physics-Lec-5",
+        "type": "عملي",
+        "date": "Jan 16",
+        "filename": "Practical-Physics-Lec-5.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Physics-Lec-5",
+        "type": "نظري",
+        "date": "Jan 16",
+        "filename": "Theoretical-Physics-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-Physics-Lec-6",
+        "type": "عملي",
+        "date": "Jan 17",
+        "filename": "Practical-Physics-Lec-6.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Physics-Lec-3",
+        "type": "عملي",
+        "date": "Jan 8",
+        "filename": "Practical-Physics-Lec-3.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Physics-Lec-2",
+        "type": "نظري",
+        "date": "Jan 8",
+        "filename": "Theoretical-Physics-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Physics-Lec-3",
+        "type": "نظري",
+        "date": "Jan 8",
+        "filename": "Theoretical-Physics-Lec-3.pdf"
+      },
+      {
+        "num": "13",
+        "title": "Theoretical-Physics-Lec-13",
+        "type": "نظري",
+        "date": "Mar 4",
+        "filename": "Theoretical-Physics-Lec-13.pdf"
+      }
+    ],
+    "مبادئ عمل الحاسوب": [
+      {
+        "num": "1",
+        "title": "Theoretical-Computer-Basics-Lec-1",
+        "type": "نظري",
+        "date": "12-25-25",
+        "filename": "Theoretical-Computer-Basics-Lec-1.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Computer-Basics-Lec-5",
+        "type": "نظري",
+        "date": "Feb 12",
+        "filename": "Theoretical-Computer-Basics-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Computer-Basics-Lec-6",
+        "type": "نظري",
+        "date": "Feb 15",
+        "filename": "Theoretical-Computer-Basics-Lec-6.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Computer-Basics-Lec-4",
+        "type": "نظري",
+        "date": "Feb 5",
+        "filename": "Theoretical-Computer-Basics-Lec-4.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Computer-Basics-Lec-3",
+        "type": "نظري",
+        "date": "Jan 16",
+        "filename": "Theoretical-Computer-Basics-Lec-3.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Computer-Basics-Lec-7",
+        "type": "نظري",
+        "date": "Jan 30",
+        "filename": "Theoretical-Computer-Basics-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Computer-Basics-Lec-8",
+        "type": "نظري",
+        "date": "Jan 30",
+        "filename": "Theoretical-Computer-Basics-Lec-8.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Computer-Basics-Lec-2",
+        "type": "نظري",
+        "date": "Jan 8",
+        "filename": "Theoretical-Computer-Basics-Lec-2.pdf"
+      }
+    ],
+    "عربي": [],
+    "ثقافة": []
+  },
+  "سنة ثانية": {
+    "برمجة 3": [
+      {
+        "num": "1",
+        "title": "Theoretical-Programming3-Lec-1",
+        "type": "نظري",
+        "date": "11-20-25",
+        "filename": "Theoretical-Programming3-Lec-1.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Programming3-Lec-3",
+        "type": "نظري",
+        "date": "11-20-25",
+        "filename": "Theoretical-Programming3-Lec-3.pdf"
+      },
+      {
+        "num": "1+2",
+        "title": "Practical-Programming3-Lec-1+2",
+        "type": "عملي",
+        "date": "11-21-25",
+        "filename": "Practical-Programming3-Lec-1+2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "practical-Programming3-Lec-3",
+        "type": "عملي",
+        "date": "11-21-25",
+        "filename": "practical-Programming3-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Programming3-Lec-4",
+        "type": "عملي",
+        "date": "11-21-25",
+        "filename": "Practical-Programming3-Lec-4.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Programming3-Lec-4",
+        "type": "نظري",
+        "date": "11-21-25",
+        "filename": "Theoretical-Programming3-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Programming3-Lec-5",
+        "type": "نظري",
+        "date": "11-21-25",
+        "filename": "Theoretical-Programming3-Lec-5.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Programming3-Lec-5",
+        "type": "عملي",
+        "date": "12-10-25",
+        "filename": "Practical-Programming3-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-Programming3-Lec-6",
+        "type": "عملي",
+        "date": "12-10-25",
+        "filename": "Practical-Programming3-Lec-6.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Programming3-Lec-2",
+        "type": "نظري",
+        "date": "12-10-25",
+        "filename": "Theoretical-Programming3-Lec-2.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Programming3-Lec-6",
+        "type": "نظري",
+        "date": "12-10-25",
+        "filename": "Theoretical-Programming3-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Programming3-Lec-7",
+        "type": "نظري",
+        "date": "12-10-25",
+        "filename": "Theoretical-Programming3-Lec-7.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-Programming3-Lec-7",
+        "type": "عملي",
+        "date": "12-29-25",
+        "filename": "Practical-Programming3-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Programming3-Lec-8",
+        "type": "نظري",
+        "date": "12-29-25",
+        "filename": "Theoretical-Programming3-Lec-8 .pdf"
+      },
+      {
+        "num": "8",
+        "title": "Practical-Programming3-Lec-8",
+        "type": "عملي",
+        "date": "Jan 11",
+        "filename": "Practical-Programming3-Lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Practical-Programming3-Lec-9",
+        "type": "عملي",
+        "date": "Jan 11",
+        "filename": "Practical-Programming3-Lec-9.pdf"
+      },
+      {
+        "num": "",
+        "title": "Practical-Programming3-Support",
+        "type": "عملي",
+        "date": "Jan 11",
+        "filename": "Practical-Programming3-Support.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Programming3-Lec-1",
+        "type": "عملي",
+        "date": "3-21-25",
+        "filename": "Practical-Programming3-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Programming3-Lec-2",
+        "type": "عملي",
+        "date": "3-21-25",
+        "filename": "Practical-Programming3-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Programming3-Lec-3",
+        "type": "عملي",
+        "date": "3-21-25",
+        "filename": "Practical-Programming3-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Programming3-Lec-4",
+        "type": "عملي",
+        "date": "3-21-25",
+        "filename": "Practical-Programming3-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Programming3-Lec-5",
+        "type": "عملي",
+        "date": "3-21-25",
+        "filename": "Practical-Programming3-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-Programming3-Lec-6",
+        "type": "عملي",
+        "date": "3-21-25",
+        "filename": "Practical-Programming3-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-Programming3-Lec-7",
+        "type": "عملي",
+        "date": "3-21-25",
+        "filename": "Practical-Programming3-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Practical-Programming3-Lec-8",
+        "type": "عملي",
+        "date": "3-21-25",
+        "filename": "Practical-Programming3-Lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Practical-Programming3-Lec-9",
+        "type": "عملي",
+        "date": "3-21-25",
+        "filename": "Practical-Programming3-Lec-9.pdf"
+      },
+      {
+        "num": "",
+        "title": "Programming3-Extra Swing",
+        "type": "نظري/عام",
+        "date": "3-21-25",
+        "filename": "Programming3-Extra Swing.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Programming3-Lec-1",
+        "type": "نظري",
+        "date": "3-21-25",
+        "filename": "Theoretical-Programming3-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Programming3-Lec-2-Extra",
+        "type": "نظري",
+        "date": "3-21-25",
+        "filename": "Theoretical-Programming3-Lec-2-Extra.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Programming3-Lec-2",
+        "type": "نظري",
+        "date": "3-21-25",
+        "filename": "Theoretical-Programming3-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Programming3-Lec-3",
+        "type": "نظري",
+        "date": "3-21-25",
+        "filename": "Theoretical-Programming3-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Programming3-Lec-4",
+        "type": "نظري",
+        "date": "3-21-25",
+        "filename": "Theoretical-Programming3-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Programming3-Lec-5",
+        "type": "نظري",
+        "date": "3-21-25",
+        "filename": "Theoretical-Programming3-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Programming3-Lec-6",
+        "type": "نظري",
+        "date": "3-21-25",
+        "filename": "Theoretical-Programming3-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Programming3-Lec-7",
+        "type": "نظري",
+        "date": "3-21-25",
+        "filename": "Theoretical-Programming3-Lec-7.pdf"
+      }
+    ],
+    "تحليل 3": [
+      {
+        "num": "",
+        "title": "Calculus Analysis 3-Theoretical-1",
+        "type": "نظري",
+        "date": "11-20-25",
+        "filename": "Calculus Analysis 3-Theoretical-1.pdf"
+      },
+      {
+        "num": "",
+        "title": "Calculus Analysis 3-Theoretical-2",
+        "type": "نظري",
+        "date": "11-20-25",
+        "filename": "Calculus Analysis 3-Theoretical-2.pdf"
+      },
+      {
+        "num": "",
+        "title": "Calculus Analysis 3-Theoretical-3",
+        "type": "نظري",
+        "date": "11-20-25",
+        "filename": "Calculus Analysis 3-Theoretical-3.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Mathematical-Analysis3-Lec-1.3",
+        "type": "عملي",
+        "date": "12-29-25",
+        "filename": "Practical-Mathematical-Analysis3-Lec-1.3.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Mathematical-Analysis3-Lec-2",
+        "type": "عملي",
+        "date": "12-29-25",
+        "filename": "Practical-Mathematical-Analysis3-Lec-2.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Mathematical-Analysis3-Lec-2.2",
+        "type": "عملي",
+        "date": "Jan 2",
+        "filename": "Practical-Mathematical-Analysis3-Lec-2.2.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Mathematical-Analysis3-Lec-2.3",
+        "type": "عملي",
+        "date": "Jan 2",
+        "filename": "Practical-Mathematical-Analysis3-Lec-2.3.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Mathematical-Analysis3-Lec-2.4",
+        "type": "عملي",
+        "date": "Jan 2",
+        "filename": "Practical-Mathematical-Analysis3-Lec-2.4.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Mathematical-Analysis3-Lec-1.1",
+        "type": "عملي",
+        "date": "Jan 20",
+        "filename": "Practical-Mathematical-Analysis3-Lec-1.1.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Mathematical-Analysis3-Lec-1.2",
+        "type": "عملي",
+        "date": "Jan 20",
+        "filename": "Practical-Mathematical-Analysis3-Lec-1.2.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Mathematical-Analysis3-Lec-1.4",
+        "type": "عملي",
+        "date": "Jan 20",
+        "filename": "Practical-Mathematical-Analysis3-Lec-1.4.pdf"
+      },
+      {
+        "num": "3+4",
+        "title": "Practical-MathematicalAnalysis3-Lec-3+4",
+        "type": "عملي",
+        "date": "11-18-24",
+        "filename": "Practical-MathematicalAnalysis3-Lec-3+4.pdf"
+      },
+      {
+        "num": "",
+        "title": "المحاضرة الاولى عملي تحليل (2)",
+        "type": "عملي",
+        "date": "11-6-24",
+        "filename": "المحاضرة الاولى عملي تحليل (2).pdf"
+      },
+      {
+        "num": "",
+        "title": "المحاضرة الثانية عملي تحليل (1)",
+        "type": "عملي",
+        "date": "11-6-24",
+        "filename": "المحاضرة الثانية عملي تحليل (1).pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-MathematicalAnalysis3-Lec-5",
+        "type": "عملي",
+        "date": "12-19-24",
+        "filename": "Practical-MathematicalAnalysis3-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-MathematicalAnalysis3-Lec-6 (2)",
+        "type": "عملي",
+        "date": "12-26-24",
+        "filename": "Practical-MathematicalAnalysis3-Lec-6 (2).pdf"
+      },
+      {
+        "num": "1",
+        "title": "MathematicalAnalysis3 lec1",
+        "type": "نظري/عام",
+        "date": "3-22-25",
+        "filename": "MathematicalAnalysis3 lec1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-MathematicalAnalysis3-Lec-2",
+        "type": "نظري",
+        "date": "3-22-25",
+        "filename": "Theoretical-MathematicalAnalysis3-Lec-2.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-MathematicalAnalysis3-Lec-5",
+        "type": "نظري",
+        "date": "3-22-25",
+        "filename": "Theoretical-MathematicalAnalysis3-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-MathematicalAnalysis3-Lec-6",
+        "type": "نظري",
+        "date": "3-22-25",
+        "filename": "Theoretical-MathematicalAnalysis3-Lec-6.pdf"
+      },
+      {
+        "num": "3",
+        "title": "MathematicalAnalysis-therotical-3_Lec3",
+        "type": "نظري/عام",
+        "date": "3-24-25",
+        "filename": "MathematicalAnalysis-therotical-3_Lec3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "MathematicalAnalysis3-lec4",
+        "type": "نظري/عام",
+        "date": "3-24-25",
+        "filename": "MathematicalAnalysis3-lec4.pdf"
+      },
+      {
+        "num": "10",
+        "title": "Theoretical-MathematicalAnalysis3-Lec-10",
+        "type": "نظري",
+        "date": "3-24-25",
+        "filename": "Theoretical-MathematicalAnalysis3-Lec-10.pdf"
+      },
+      {
+        "num": "11",
+        "title": "Theoretical-MathematicalAnalysis3-Lec-11",
+        "type": "نظري",
+        "date": "3-24-25",
+        "filename": "Theoretical-MathematicalAnalysis3-Lec-11.pdf"
+      },
+      {
+        "num": "12",
+        "title": "Theoretical-MathematicalAnalysis3-Lec-12",
+        "type": "نظري",
+        "date": "3-24-25",
+        "filename": "Theoretical-MathematicalAnalysis3-Lec-12.pdf"
+      },
+      {
+        "num": "13",
+        "title": "Theoretical-MathematicalAnalysis3-Lec-13",
+        "type": "نظري",
+        "date": "3-24-25",
+        "filename": "Theoretical-MathematicalAnalysis3-Lec-13.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-MathematicalAnalysis3-Lec-7",
+        "type": "نظري",
+        "date": "3-24-25",
+        "filename": "Theoretical-MathematicalAnalysis3-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-MathematicalAnalysis3-Lec-8",
+        "type": "نظري",
+        "date": "3-24-25",
+        "filename": "Theoretical-MathematicalAnalysis3-Lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-MathematicalAnalysis3-Lec-9",
+        "type": "نظري",
+        "date": "3-24-25",
+        "filename": "Theoretical-MathematicalAnalysis3-Lec-9.pdf"
+      }
+    ],
+    "تحليل عددي": [
+      {
+        "num": "3",
+        "title": "Numerical-Analysis-Theoritical-Lec-3 (1)",
+        "type": "نظري/عام",
+        "date": "Jul 10",
+        "filename": "Numerical-Analysis-Theoritical-Lec-3 (1).pdf"
+      },
+      {
+        "num": "5",
+        "title": "Numerical-Analysis-Theoritical-Lec-5 (2) (2)",
+        "type": "نظري/عام",
+        "date": "Jul 10",
+        "filename": "Numerical-Analysis-Theoritical-Lec-5 (2) (2).pdf"
+      },
+      {
+        "num": "7",
+        "title": "Numerical-Analysis-Theoritical-Lec-7 (3)",
+        "type": "نظري/عام",
+        "date": "Jul 10",
+        "filename": "Numerical-Analysis-Theoritical-Lec-7 (3).pdf"
+      },
+      {
+        "num": "9",
+        "title": "Numerical-Analysis-Theoritical-Lec-9 (2)",
+        "type": "نظري/عام",
+        "date": "Jul 9",
+        "filename": "Numerical-Analysis-Theoritical-Lec-9 (2).pdf"
+      },
+      {
+        "num": "",
+        "title": "Theoretical-Support 1-Numerical-analysis",
+        "type": "نظري",
+        "date": "Jul 9",
+        "filename": "Theoretical-Support 1-Numerical-analysis.pdf"
+      },
+      {
+        "num": "",
+        "title": "Practical-Numerical-analysis--Dr.Jehad-3",
+        "type": "عملي",
+        "date": "Jun 14",
+        "filename": "Practical-Numerical-analysis--Dr.Jehad-3.pdf"
+      },
+      {
+        "num": "",
+        "title": "Practical-Numerical-analysis-Dr.Jehad-2 (2)",
+        "type": "عملي",
+        "date": "Jun 14",
+        "filename": "Practical-Numerical-analysis-Dr.Jehad-2 (2).pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Numrical-Analysis-Dr.abeer-lec 1 (2)",
+        "type": "عملي",
+        "date": "Jun 14",
+        "filename": "Practical-Numrical-Analysis-Dr.abeer-lec 1 (2).pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Numrical-Analysis-Dr.abeer-lec 2 (2)",
+        "type": "عملي",
+        "date": "Jun 14",
+        "filename": "Practical-Numrical-Analysis-Dr.abeer-lec 2 (2).pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Numrical-Analysis-Dr.abeer-lec 3",
+        "type": "عملي",
+        "date": "Jun 14",
+        "filename": "Practical-Numrical-Analysis-Dr.abeer-lec 3.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Numerical-Analysis-Theoritical-Lec-2 (1)",
+        "type": "نظري/عام",
+        "date": "Jun 30",
+        "filename": "Numerical-Analysis-Theoritical-Lec-2 (1).pdf"
+      },
+      {
+        "num": "4",
+        "title": "Numerical-Analysis-Theoritical-Lec-4",
+        "type": "نظري/عام",
+        "date": "Jun 30",
+        "filename": "Numerical-Analysis-Theoritical-Lec-4.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Numerical-Analysis-Theoritical-Lec-6 (2)",
+        "type": "نظري/عام",
+        "date": "Jun 30",
+        "filename": "Numerical-Analysis-Theoritical-Lec-6 (2).pdf"
+      },
+      {
+        "num": "1",
+        "title": "Numerical-Analysis-Theoritical-Lec-1 (4)",
+        "type": "نظري/عام",
+        "date": "May 11",
+        "filename": "Numerical-Analysis-Theoritical-Lec-1 (4).pdf"
+      },
+      {
+        "num": "",
+        "title": "Practical-Numerical-analysis-Dr.Jehad-1 (3)",
+        "type": "عملي",
+        "date": "May 11",
+        "filename": "Practical-Numerical-analysis-Dr.Jehad-1 (3).pdf"
+      },
+      {
+        "num": "",
+        "title": "Practical-Numerical-analysis-Dr.Abeer-4",
+        "type": "عملي",
+        "date": "Sep 8",
+        "filename": "Practical-Numerical-analysis-Dr.Abeer-4 .pdf"
+      },
+      {
+        "num": "",
+        "title": "Support-Numerical-Amalysis-4 (1)",
+        "type": "نظري/عام",
+        "date": "Sep 8",
+        "filename": "Support-Numerical-Amalysis-4 (1).pdf"
+      },
+      {
+        "num": "",
+        "title": "Support-Numerical-Analysis-1 (2)",
+        "type": "نظري/عام",
+        "date": "Sep 8",
+        "filename": "Support-Numerical-Analysis-1 (2).pdf"
+      },
+      {
+        "num": "",
+        "title": "Support-Numerical-Analysis-3 (3)",
+        "type": "نظري/عام",
+        "date": "Sep 8",
+        "filename": "Support-Numerical-Analysis-3 (3).pdf"
+      },
+      {
+        "num": "",
+        "title": "Theoretical-Support  -Numerical-analysis.",
+        "type": "نظري",
+        "date": "Sep 8",
+        "filename": "Theoretical-Support  -Numerical-analysis..pdf"
+      },
+      {
+        "num": "1",
+        "title": "Numerical-Analysis-Theoritical-Lec-1",
+        "type": "نظري/عام",
+        "date": "5-22-25",
+        "filename": "Numerical-Analysis-Theoritical-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Numerical-Analysis-Theoritical-Lec-2",
+        "type": "نظري/عام",
+        "date": "5-22-25",
+        "filename": "Numerical-Analysis-Theoritical-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Numerical-Analysis-Theoritical-Lec-3",
+        "type": "نظري/عام",
+        "date": "5-22-25",
+        "filename": "Numerical-Analysis-Theoritical-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Numerical-Analysis-Theoritical-Lec-4",
+        "type": "نظري/عام",
+        "date": "5-22-25",
+        "filename": "Numerical-Analysis-Theoritical-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Numerical-Analysis-Theoritical-Lec-5",
+        "type": "نظري/عام",
+        "date": "5-22-25",
+        "filename": "Numerical-Analysis-Theoritical-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Numerical-Analysis-Theoritical-Lec-6",
+        "type": "نظري/عام",
+        "date": "5-30-25",
+        "filename": "Numerical-Analysis-Theoritical-Lec-6.pdf"
+      }
+    ],
+    "خوارزميات 1": [
+      {
+        "num": "2",
+        "title": "Theoretical-Algorithms and Data Structures1-Lec-2",
+        "type": "نظري",
+        "date": "11-20-25",
+        "filename": "Theoretical-Algorithms and Data Structures1-Lec-2.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Algorithms and Data Structures1-Lec-1",
+        "type": "نظري",
+        "date": "11-22-25",
+        "filename": "Theoretical-Algorithms and Data Structures1-Lec-1.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Algorithms and Data Structures1-Lec-4",
+        "type": "عملي",
+        "date": "12-19-25",
+        "filename": "Practical-Algorithms and Data Structures1-Lec-4.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Parctical-AlgorithmsAndDataStructure1-Lec-2",
+        "type": "عملي",
+        "date": "12-29-25",
+        "filename": "Parctical-AlgorithmsAndDataStructure1-Lec-2.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Algorithms and Data Structures1-Lec-1",
+        "type": "عملي",
+        "date": "12-3-25",
+        "filename": "Practical-Algorithms and Data Structures1-Lec-1.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Algorithms and Data Structures1-Lec-3",
+        "type": "نظري",
+        "date": "12-31-25",
+        "filename": "Theoretical-Algorithms and Data Structures1-Lec-3.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Algorithms and Data Structures1-Lec-6",
+        "type": "نظري",
+        "date": "Feb 5",
+        "filename": "Theoretical-Algorithms and Data Structures1-Lec-6.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Algorithms and Data Structures1-Lec-5",
+        "type": "نظري",
+        "date": "Feb 6",
+        "filename": "Theoretical-Algorithms and Data Structures1-Lec-5.pdf"
+      },
+      {
+        "num": "",
+        "title": "Parctical-AlgorithmsAndDataStructure1-3",
+        "type": "عملي",
+        "date": "Jan 13",
+        "filename": "Parctical-AlgorithmsAndDataStructure1-3.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Algorithms and Data Structures1-Lec-5",
+        "type": "عملي",
+        "date": "Jan 13",
+        "filename": "Practical-Algorithms and Data Structures1-Lec-5.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Algorithms and Data Structures1-Lec-4",
+        "type": "نظري",
+        "date": "Jan 14",
+        "filename": "Theoretical-Algorithms and Data Structures1-Lec-4.pdf"
+      },
+      {
+        "num": "",
+        "title": "Parctical-AlgorithmsAndDataStructure1-7",
+        "type": "عملي",
+        "date": "1-2-25",
+        "filename": "Parctical-AlgorithmsAndDataStructure1-7.pdf"
+      },
+      {
+        "num": "",
+        "title": "Parctical-AlgorithmsAndDataStructure1-5",
+        "type": "عملي",
+        "date": "12-18-24",
+        "filename": "Parctical-AlgorithmsAndDataStructure1-5.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Parctical-AlgorithmsAndDataStructure-Lec-4",
+        "type": "عملي",
+        "date": "12-19-24",
+        "filename": "Parctical-AlgorithmsAndDataStructure-Lec-4.pdf"
+      },
+      {
+        "num": "",
+        "title": "Parctical-AlgorithemsAndDataStructure1-6",
+        "type": "عملي",
+        "date": "3-13-25",
+        "filename": "Parctical-AlgorithemsAndDataStructure1-6.pdf"
+      },
+      {
+        "num": "",
+        "title": "Parctical-AlgorithmsAndDataStructure-3",
+        "type": "عملي",
+        "date": "3-13-25",
+        "filename": "Parctical-AlgorithmsAndDataStructure-3.pdf"
+      },
+      {
+        "num": "",
+        "title": "Parctical-AlgorithmsAndDataStructure1+2",
+        "type": "عملي",
+        "date": "3-13-25",
+        "filename": "Parctical-AlgorithmsAndDataStructure1+2 .pdf"
+      },
+      {
+        "num": "",
+        "title": "Theortical-AlgorithmsAndDataStructure1-1",
+        "type": "نظري/عام",
+        "date": "3-13-25",
+        "filename": "Theortical-AlgorithmsAndDataStructure1-1.pdf"
+      },
+      {
+        "num": "",
+        "title": "Theortical-AlgorithmsAndDataStructure1-2",
+        "type": "نظري/عام",
+        "date": "3-13-25",
+        "filename": "Theortical-AlgorithmsAndDataStructure1-2.pdf"
+      },
+      {
+        "num": "",
+        "title": "Theortical-AlgorithmsAndDataStructure1-3",
+        "type": "نظري/عام",
+        "date": "3-13-25",
+        "filename": "Theortical-AlgorithmsAndDataStructure1-3.pdf"
+      },
+      {
+        "num": "",
+        "title": "Theortical-AlgorithmsAndDataStructure1-4",
+        "type": "نظري/عام",
+        "date": "3-13-25",
+        "filename": "Theortical-AlgorithmsAndDataStructure1-4.pdf"
+      },
+      {
+        "num": "",
+        "title": "Theortical-AlgorithmsAndDataStructure1-5",
+        "type": "نظري/عام",
+        "date": "3-17-25",
+        "filename": "Theortical-AlgorithmsAndDataStructure1-5.pdf"
+      }
+    ],
+    "خوارزميات 2": [
+      {
+        "num": "1",
+        "title": "1- Intro to Trees",
+        "type": "نظري/عام",
+        "date": "5-22-25",
+        "filename": "1- Intro to Trees.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2-Binary Search Trees_075625",
+        "type": "نظري/عام",
+        "date": "5-22-25",
+        "filename": "2-Binary Search Trees_075625.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Parctical-Algorithms2-lec-1",
+        "type": "عملي",
+        "date": "5-22-25",
+        "filename": "Parctical-Algorithms2-lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Parctical-Algorithms2-lec-2",
+        "type": "عملي",
+        "date": "5-22-25",
+        "filename": "Parctical-Algorithms2-lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Parctical-Algorithms2-lec-3 (2)",
+        "type": "عملي",
+        "date": "5-22-25",
+        "filename": "Parctical-Algorithms2-lec-3 (2).pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Algorithms2-lec4",
+        "type": "عملي",
+        "date": "5-22-25",
+        "filename": "Practical-Algorithms2-lec4.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3- AVL Trees (1)",
+        "type": "نظري/عام",
+        "date": "6-12-25",
+        "filename": "3- AVL Trees (1).pdf"
+      },
+      {
+        "num": "4",
+        "title": "4- Heap",
+        "type": "نظري/عام",
+        "date": "6-12-25",
+        "filename": "4- Heap.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5- B-Tree",
+        "type": "نظري/عام",
+        "date": "7-31-25",
+        "filename": "5- B-Tree .pdf"
+      },
+      {
+        "num": "6",
+        "title": "6- Graph",
+        "type": "نظري/عام",
+        "date": "7-31-25",
+        "filename": "6- Graph.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Parctical-Algorithms2-lec-5 (1)",
+        "type": "عملي",
+        "date": "7-31-25",
+        "filename": "Parctical-Algorithms2-lec-5 (1).pdf"
+      },
+      {
+        "num": "6",
+        "title": "Parctical-Algorithms2-lec-6  (1)",
+        "type": "عملي",
+        "date": "7-31-25",
+        "filename": "Parctical-Algorithms2-lec-6  (1).pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-Algorithms2-lec-7 (1)",
+        "type": "عملي",
+        "date": "7-31-25",
+        "filename": "Practical-Algorithms2-lec-7 (1).pdf"
+      },
+      {
+        "num": "8",
+        "title": "Practical-Algorithms2-lec-8  (1)",
+        "type": "عملي",
+        "date": "7-31-25",
+        "filename": "Practical-Algorithms2-lec-8  (1).pdf"
+      },
+      {
+        "num": "9",
+        "title": "Practical_AlgorithmsAndDataStructure2_Lec_9 (1) (1)",
+        "type": "عملي",
+        "date": "7-31-25",
+        "filename": "Practical_AlgorithmsAndDataStructure2_Lec_9 (1) (1).pdf"
+      },
+      {
+        "num": "5",
+        "title": "Parctical-AlgorithmsAndDataStructure 2-Lec-5",
+        "type": "عملي",
+        "date": "Jul 7",
+        "filename": "Parctical-AlgorithmsAndDataStructure 2-Lec-5.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical- Algorithms-2 Lec-3-part2",
+        "type": "عملي",
+        "date": "Jul 7",
+        "filename": "Practical- Algorithms-2 Lec-3-part2.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical- Algorithms-2 Lec-6",
+        "type": "عملي",
+        "date": "Jul 7",
+        "filename": "Practical- Algorithms-2 Lec-6.pdf"
+      },
+      {
+        "num": "",
+        "title": "Support_Algorithm2_(2)",
+        "type": "نظري/عام",
+        "date": "Jul 7",
+        "filename": "Support_Algorithm2_(2).pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Algorithms and Data Structures2-Lec-7",
+        "type": "نظري",
+        "date": "Jul 7",
+        "filename": "Theoretical-Algorithms and Data Structures2-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Algorithms and Data Structures2-Lec-8",
+        "type": "نظري",
+        "date": "Jul 7",
+        "filename": "Theoretical-Algorithms and Data Structures2-Lec-8.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical- Algorithms-2 Lec-4 (2)",
+        "type": "عملي",
+        "date": "Jun 2",
+        "filename": "Practical- Algorithms-2 Lec-4 (2).pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Algorithms and Data Structures2-Lec-5",
+        "type": "نظري",
+        "date": "Jun 2",
+        "filename": "Theoretical-Algorithms and Data Structures2-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Algorithms and Data Structures2-Lec-6",
+        "type": "نظري",
+        "date": "Jun 9",
+        "filename": "Theoretical-Algorithms and Data Structures2-Lec-6.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Algorithms and Data Structures2-Lec-2",
+        "type": "نظري",
+        "date": "May 11",
+        "filename": "Theoretical-Algorithms and Data Structures2-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Algorithms and Data Structures2-Lec-3",
+        "type": "نظري",
+        "date": "May 13",
+        "filename": "Theoretical-Algorithms and Data Structures2-Lec-3.pdf"
+      },
+      {
+        "num": "",
+        "title": "Support-Algorithms2",
+        "type": "نظري/عام",
+        "date": "May 18",
+        "filename": "Support-Algorithms2.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Parctical-AlgorithmsAndDataStructure 2-Lec-2",
+        "type": "عملي",
+        "date": "May 21",
+        "filename": "Parctical-AlgorithmsAndDataStructure 2-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Parctical-AlgorithmsAndDataStructure 2-Lec-3",
+        "type": "عملي",
+        "date": "May 21",
+        "filename": "Parctical-AlgorithmsAndDataStructure 2-Lec-3.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-AlgorithmsAndDataStructure 2-Lec-1",
+        "type": "عملي",
+        "date": "May 21",
+        "filename": "Practical-AlgorithmsAndDataStructure 2-Lec-1.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Algorithms and Data Structures2-Lec-4",
+        "type": "نظري",
+        "date": "May 21",
+        "filename": "Theoretical-Algorithms and Data Structures2-Lec-4.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Algorithms and Data Structures2-Lec-1",
+        "type": "نظري",
+        "date": "May 7",
+        "filename": "Theoretical-Algorithms and Data Structures2-Lec-1.pdf"
+      }
+    ],
+    "دارات منطقية": [
+      {
+        "num": "1",
+        "title": "Practical-LogicCircuits-Lec-1",
+        "type": "عملي",
+        "date": "11-21-25",
+        "filename": "Practical-LogicCircuits-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-LogicCircuits-Lec-2",
+        "type": "عملي",
+        "date": "11-21-25",
+        "filename": "Practical-LogicCircuits-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-LogicCircuits-Lec-3",
+        "type": "عملي",
+        "date": "12-10-25",
+        "filename": "Practical-LogicCircuits-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-LogicCircuits-Lec-4",
+        "type": "عملي",
+        "date": "12-10-25",
+        "filename": "Practical-LogicCircuits-Lec-4.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-LogicCircuits-Lec-1",
+        "type": "نظري",
+        "date": "12-10-25",
+        "filename": "Theoretical-LogicCircuits-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-LogicCircuits-Lec-2",
+        "type": "نظري",
+        "date": "12-10-25",
+        "filename": "Theoretical-LogicCircuits-Lec-2.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-LogicCircuits-Lec-5",
+        "type": "عملي",
+        "date": "12-29-25",
+        "filename": "Practical-LogicCircuits-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-LogicCircuits-Lec-6",
+        "type": "عملي",
+        "date": "12-29-25",
+        "filename": "Practical-LogicCircuits-Lec-6.pdf"
+      },
+      {
+        "num": "03",
+        "title": "Theoretical-LogicCircuits-lec-03",
+        "type": "نظري",
+        "date": "12-29-25",
+        "filename": "Theoretical-LogicCircuits-lec-03.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-LogicCircuits-Lec-7",
+        "type": "عملي",
+        "date": "Jan 11",
+        "filename": "Practical-LogicCircuits-Lec-7.pdf"
+      },
+      {
+        "num": "04",
+        "title": "Theoretical-LogicCircuits-lec-04",
+        "type": "نظري",
+        "date": "Jan 11",
+        "filename": "Theoretical-LogicCircuits-lec-04.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-LogicCircuits-Lec-7",
+        "type": "نظري",
+        "date": "1-1-25",
+        "filename": "Theoretical-LogicCircuits-Lec-7.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-LogicCircuits-Lec-1",
+        "type": "عملي",
+        "date": "11-11-24",
+        "filename": "Practical-LogicCircuits-Lec-1.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-LogicCircuits-Lec-3",
+        "type": "نظري",
+        "date": "11-11-24",
+        "filename": "Theoretical-LogicCircuits-Lec-3.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-LogicCircuits-Lec-2",
+        "type": "عملي",
+        "date": "11-18-24",
+        "filename": "Practical-LogicCircuits-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-LogicCircuits-Lec-3",
+        "type": "عملي",
+        "date": "11-18-24",
+        "filename": "Practical-LogicCircuits-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-LogicCircuits-Lec-4",
+        "type": "نظري",
+        "date": "11-18-24",
+        "filename": "Theoretical-LogicCircuits-Lec-4.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-LogicCircuits-Lec-4",
+        "type": "عملي",
+        "date": "11-25-24",
+        "filename": "Practical-LogicCircuits-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-LogicCircuits-Lec-5",
+        "type": "نظري",
+        "date": "11-25-24",
+        "filename": "Theoretical-LogicCircuits-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-LogicCircuits-Lec-6",
+        "type": "نظري",
+        "date": "11-28-24",
+        "filename": "Theoretical-LogicCircuits-Lec-6.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-LogicCircuits-Lec-1",
+        "type": "نظري",
+        "date": "11-6-24",
+        "filename": "Theoretical-LogicCircuits-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-LogicCircuits-Lec-2",
+        "type": "نظري",
+        "date": "11-6-24",
+        "filename": "Theoretical-LogicCircuits-Lec-2.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-LogicCircuits-Lec-5",
+        "type": "عملي",
+        "date": "12-15-24",
+        "filename": "Practical-LogicCircuits-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-LogicCircuits-Lec-6",
+        "type": "عملي",
+        "date": "12-23-24",
+        "filename": "Practical-LogicCircuits-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-LogicCircuits-Lec-7",
+        "type": "عملي",
+        "date": "12-26-24",
+        "filename": "Practical-LogicCircuits-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-LogicCircuits-Lec-8",
+        "type": "نظري",
+        "date": "2-6-25",
+        "filename": "Theoretical-LogicCircuits-Lec-8.pdf"
+      }
+    ],
+    "احتمالات وإحصاء": [
+      {
+        "num": "4",
+        "title": "Practical-ProbabilityAndStatistics-lec-4",
+        "type": "عملي",
+        "date": "11-18-24",
+        "filename": "Practical-ProbabilityAndStatistics-lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-ProbabilityAndStatistics-lec-5",
+        "type": "عملي",
+        "date": "11-24-24",
+        "filename": "Practical-ProbabilityAndStatistics-lec-5.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-ProbabilityAndStatistics-lec-1",
+        "type": "عملي",
+        "date": "11-9-24",
+        "filename": "Practical-ProbabilityAndStatistics-lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-ProbabilityAndStatistics-lec-2",
+        "type": "عملي",
+        "date": "11-9-24",
+        "filename": "Practical-ProbabilityAndStatistics-lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-ProbabilityAndStatistics-lec-3",
+        "type": "عملي",
+        "date": "11-9-24",
+        "filename": "Practical-ProbabilityAndStatistics-lec-3.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Practical-ProbabilityAndStatistics-lec-8",
+        "type": "عملي",
+        "date": "12-26-24",
+        "filename": "Practical-ProbabilityAndStatistics-lec-8.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-ProbabilityAndStatistics-lec-6",
+        "type": "عملي",
+        "date": "12-5-24",
+        "filename": "Practical-ProbabilityAndStatistics-lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-ProbabilityAndStatistics-lec-7",
+        "type": "عملي",
+        "date": "12-5-24",
+        "filename": "Practical-ProbabilityAndStatistics-lec-7.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-ProbabilityAndStatistics-lec-1",
+        "type": "نظري",
+        "date": "3-23-25",
+        "filename": "Theoretical-ProbabilityAndStatistics-lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-ProbabilityAndStatistics-lec-2",
+        "type": "نظري",
+        "date": "3-23-25",
+        "filename": "Theoretical-ProbabilityAndStatistics-lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-ProbabilityAndStatistics-lec-3",
+        "type": "نظري",
+        "date": "3-23-25",
+        "filename": "Theoretical-ProbabilityAndStatistics-lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-ProbabilityAndStatistics-lec-4",
+        "type": "نظري",
+        "date": "3-23-25",
+        "filename": "Theoretical-ProbabilityAndStatistics-lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-ProbabilityAndStatistics-lec-5",
+        "type": "نظري",
+        "date": "3-23-25",
+        "filename": "Theoretical-ProbabilityAndStatistics-lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-ProbabilityAndStatistics-lec-6",
+        "type": "نظري",
+        "date": "3-23-25",
+        "filename": "Theoretical-ProbabilityAndStatistics-lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-ProbabilityAndStatistics-lec-7",
+        "type": "نظري",
+        "date": "3-23-25",
+        "filename": "Theoretical-ProbabilityAndStatistics-lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-ProbabilityAndStatistics-lec-8",
+        "type": "نظري",
+        "date": "3-23-25",
+        "filename": "Theoretical-ProbabilityAndStatistics-lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-ProbabilityAndStatistics-lec-9",
+        "type": "نظري",
+        "date": "3-23-25",
+        "filename": "Theoretical-ProbabilityAndStatistics-lec-9.pdf"
+      },
+      {
+        "num": "10",
+        "title": "Theoretical-ProbabilityAndStatistics-lec-10",
+        "type": "نظري",
+        "date": "3-26-25",
+        "filename": "Theoretical-ProbabilityAndStatistics-lec-10.pdf"
+      },
+      {
+        "num": "11",
+        "title": "Theoretical-ProbabilityAndStatistics-lec-11",
+        "type": "نظري",
+        "date": "3-26-25",
+        "filename": "Theoretical-ProbabilityAndStatistics-lec-11.pdf"
+      },
+      {
+        "num": "12",
+        "title": "Theoretical-ProbabilityAndStatistics-lec-12",
+        "type": "نظري",
+        "date": "3-26-25",
+        "filename": "Theoretical-ProbabilityAndStatistics-lec-12.pdf"
+      },
+      {
+        "num": "13",
+        "title": "Theoretical-ProbabilityAndStatistics-lec-13",
+        "type": "نظري",
+        "date": "3-26-25",
+        "filename": "Theoretical-ProbabilityAndStatistics-lec-13.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-probbability &amp; statistics Lec1-part1",
+        "type": "نظري",
+        "date": "11-20-25",
+        "filename": "Theoretical-probbability &amp; statistics Lec1-part1.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-probbability &amp; statistics Lec1-part2",
+        "type": "نظري",
+        "date": "11-20-25",
+        "filename": "Theoretical-probbability &amp; statistics Lec1-part2.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-probbability &amp; statistics Lec2-part1",
+        "type": "نظري",
+        "date": "11-21-25",
+        "filename": "Theoretical-probbability &amp; statistics Lec2-part1 .pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Probability-and-Statics-Lec-3",
+        "type": "عملي",
+        "date": "12-10-25",
+        "filename": "Practical-Probability-and-Statics-Lec-3.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-probbability &amp; statistics Lec2-part2",
+        "type": "نظري",
+        "date": "12-10-25",
+        "filename": "Theoretical-probbability &amp; statistics Lec2-part2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-probbability &amp; statistics Lec3-part1",
+        "type": "نظري",
+        "date": "12-10-25",
+        "filename": "Theoretical-probbability &amp; statistics Lec3-part1.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Probability-and-Statics-Lec-4",
+        "type": "عملي",
+        "date": "12-29-25",
+        "filename": "Practical-Probability-and-Statics-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Probability-and-Statics-Lec-5",
+        "type": "عملي",
+        "date": "12-29-25",
+        "filename": "Practical-Probability-and-Statics-Lec-5.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-probbability &amp; statistics Lec3-part2",
+        "type": "نظري",
+        "date": "12-29-25",
+        "filename": "Theoretical-probbability &amp; statistics Lec3-part2.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-probbability &amp; statistics Lec4-part1",
+        "type": "نظري",
+        "date": "Jan 11",
+        "filename": "Theoretical-probbability &amp; statistics Lec4-part1.pdf"
+      },
+      {
+        "num": "6",
+        "title": "__Practical-Probability-and-Statics-Lec-6",
+        "type": "عملي",
+        "date": "Jan 11",
+        "filename": "__Practical-Probability-and-Statics-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "__Practical-Probability-and-Statics-Lec-7",
+        "type": "عملي",
+        "date": "Jan 11",
+        "filename": "__Practical-Probability-and-Statics-Lec-7.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-probbability &amp; statistics Lec4-part2",
+        "type": "نظري",
+        "date": "Jan 12",
+        "filename": "Theoretical-probbability &amp; statistics Lec4-part2.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-probbability &amp; statistics Lec5-part1",
+        "type": "نظري",
+        "date": "Jan 14",
+        "filename": "Theoretical-probbability &amp; statistics Lec5-part1.pdf"
+      },
+      {
+        "num": "8",
+        "title": "__Practical-Probability-and-Statics-Lec-8",
+        "type": "عملي",
+        "date": "Jan 18",
+        "filename": "__Practical-Probability-and-Statics-Lec-8.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Probability-and-Statics-Lec-1",
+        "type": "عملي",
+        "date": "Jan 19",
+        "filename": "Practical-Probability-and-Statics-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Probability-and-Statics-Lec-2",
+        "type": "عملي",
+        "date": "Jan 19",
+        "filename": "Practical-Probability-and-Statics-Lec-2.pdf"
+      }
+    ],
+    "بنيان حواسيب 1": [
+      {
+        "num": "1",
+        "title": "Practical-ComputerArchitecture1-Lec-1",
+        "type": "عملي",
+        "date": "5-22-25",
+        "filename": "Practical-ComputerArchitecture1-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-ComputerArchitecture1-Lec-2",
+        "type": "عملي",
+        "date": "5-22-25",
+        "filename": "Practical-ComputerArchitecture1-Lec-2.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-ComputerArchitecture1-Lec-1",
+        "type": "نظري",
+        "date": "5-22-25",
+        "filename": "Theoretical-ComputerArchitecture1-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-ComputerArchitecture1-Lec-2",
+        "type": "نظري",
+        "date": "5-22-25",
+        "filename": "Theoretical-ComputerArchitecture1-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-ComputerArchitecture1-Lec-3",
+        "type": "نظري",
+        "date": "5-22-25",
+        "filename": "Theoretical-ComputerArchitecture1-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-ComputerArchitecture1-Lec-4",
+        "type": "نظري",
+        "date": "5-22-25",
+        "filename": "Theoretical-ComputerArchitecture1-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-ComputerArchitecture1-Lec-5",
+        "type": "نظري",
+        "date": "5-30-25",
+        "filename": "Theoretical-ComputerArchitecture1-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-ComputerArchitecture1-Lec-6",
+        "type": "نظري",
+        "date": "6-12-25",
+        "filename": "Theoretical-ComputerArchitecture1-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-ComputerArchitecture1-Lec-7",
+        "type": "نظري",
+        "date": "6-23-25",
+        "filename": "Theoretical-ComputerArchitecture1-Lec-7.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-ComputerArchitucture1-Lec-7",
+        "type": "عملي",
+        "date": "6-27-25",
+        "filename": "Practical-ComputerArchitucture1-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Practical-ComputerArchitecture1-Lec-8",
+        "type": "عملي",
+        "date": "7-3-25",
+        "filename": "Practical-ComputerArchitecture1-Lec-8.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-ComputerArchitecture1-Lec-8",
+        "type": "نظري",
+        "date": "7-3-25",
+        "filename": "Theoretical-ComputerArchitecture1-Lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-ComputerArchitecture1-Lec-9",
+        "type": "نظري",
+        "date": "7-3-25",
+        "filename": "Theoretical-ComputerArchitecture1-Lec-9.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-ComputerArchitecture1-Lec-7",
+        "type": "عملي",
+        "date": "7-31-25",
+        "filename": "Practical-ComputerArchitecture1-Lec-7.pdf"
+      },
+      {
+        "num": "10",
+        "title": "Theoretical-ComputerArchitecture1-Lec-10",
+        "type": "نظري",
+        "date": "7-31-25",
+        "filename": "Theoretical-ComputerArchitecture1-Lec-10.pdf"
+      },
+      {
+        "num": "11",
+        "title": "Theoretical-ComputerArchitecture1-Lec-11",
+        "type": "نظري",
+        "date": "7-31-25",
+        "filename": "Theoretical-ComputerArchitecture1-Lec-11.pdf"
+      },
+      {
+        "num": "12",
+        "title": "Theoretical-ComputerArchitecture1-Lec-12",
+        "type": "نظري",
+        "date": "7-31-25",
+        "filename": "Theoretical-ComputerArchitecture1-Lec-12.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical - Computer Architecture 1 - Lec 8",
+        "type": "نظري",
+        "date": "Aug 31",
+        "filename": "Theoretical - Computer Architecture 1 - Lec 8.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical - Computer Architecture 1 - Lec 1",
+        "type": "عملي",
+        "date": "Sep 7",
+        "filename": "Practical - Computer Architecture 1 - Lec 1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical - Computer Architecture 1 - Lec 2",
+        "type": "عملي",
+        "date": "Sep 7",
+        "filename": "Practical - Computer Architecture 1 - Lec 2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical - Computer Architecture 1 - Lec 3",
+        "type": "عملي",
+        "date": "Sep 7",
+        "filename": "Practical - Computer Architecture 1 - Lec 3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical - Computer Architecture 1 - Lec 4",
+        "type": "عملي",
+        "date": "Sep 7",
+        "filename": "Practical - Computer Architecture 1 - Lec 4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical - Computer Architecture 1 - Lec 5",
+        "type": "عملي",
+        "date": "Sep 7",
+        "filename": "Practical - Computer Architecture 1 - Lec 5.pdf"
+      },
+      {
+        "num": "",
+        "title": "Support - Theoretical - Computer Architecture 1 - Lec (1 - 5)",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Support - Theoretical - Computer Architecture 1 - Lec (1 - 5).pdf"
+      },
+      {
+        "num": "",
+        "title": "Support - Theoretical - Computer Architecture 1 - Lec (1+2+3)",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Support - Theoretical - Computer Architecture 1 - Lec (1+2+3).pdf"
+      },
+      {
+        "num": "",
+        "title": "Support - Theoretical - Computer Architecture 1 - Lec (4+5)",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Support - Theoretical - Computer Architecture 1 - Lec (4+5).pdf"
+      },
+      {
+        "num": "",
+        "title": "Support - Theoretical - Computer Architecture 1 - Lec (6 - 9)",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Support - Theoretical - Computer Architecture 1 - Lec (6 - 9).pdf"
+      },
+      {
+        "num": "",
+        "title": "Support - Theoretical - Computer Architecture 1 - Lec (6+7)",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Support - Theoretical - Computer Architecture 1 - Lec (6+7).pdf"
+      },
+      {
+        "num": "",
+        "title": "Support - Theoretical - Computer Architecture 1 - past exams",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Support - Theoretical - Computer Architecture 1 - past exams.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical - Computer Architecture 1 - Lec 1",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical - Computer Architecture 1 - Lec 1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical - Computer Architecture 1 - Lec 2",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical - Computer Architecture 1 - Lec 2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical - Computer Architecture 1 - Lec 3",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical - Computer Architecture 1 - Lec 3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical - Computer Architecture 1 - Lec 4",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical - Computer Architecture 1 - Lec 4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical - Computer Architecture 1 - Lec 5",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical - Computer Architecture 1 - Lec 5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical - Computer Architecture 1 - Lec 6",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical - Computer Architecture 1 - Lec 6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical - Computer Architecture 1 - Lec 7",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical - Computer Architecture 1 - Lec 7.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical - Computer Architecture 1 - Lec 9",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical - Computer Architecture 1 - Lec 9.pdf"
+      }
+    ],
+    "اتصالات رقمية": [
+      {
+        "num": "1",
+        "title": "Practical-DigitalCommunications-Lec-1",
+        "type": "عملي",
+        "date": "5-22-25",
+        "filename": "Practical-DigitalCommunications-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-DigitalCommunications-Lec-2",
+        "type": "عملي",
+        "date": "5-22-25",
+        "filename": "Practical-DigitalCommunications-Lec-2.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-DigitalCommunications-Lec-1",
+        "type": "نظري",
+        "date": "5-22-25",
+        "filename": "Theoretical-DigitalCommunications-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-DigitalCommunications-Lec-2",
+        "type": "نظري",
+        "date": "5-22-25",
+        "filename": "Theoretical-DigitalCommunications-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-DigitalCommunications-Lec-3",
+        "type": "نظري",
+        "date": "5-22-25",
+        "filename": "Theoretical-DigitalCommunications-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-DigitalCommunications-Lec-4",
+        "type": "نظري",
+        "date": "5-22-25",
+        "filename": "Theoretical-DigitalCommunications-Lec-4.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Exercises-DigitalCommunications-Lec-1",
+        "type": "نظري/عام",
+        "date": "5-24-25",
+        "filename": "Exercises-DigitalCommunications-Lec-1.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-DigitalCommunications-Lec-3",
+        "type": "عملي",
+        "date": "5-24-25",
+        "filename": "Practical-DigitalCommunications-Lec-3.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-DigitalCommunications-Lec-5",
+        "type": "نظري",
+        "date": "5-30-25",
+        "filename": "Theoretical-DigitalCommunications-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-DigitalCommunications-Lec-6",
+        "type": "نظري",
+        "date": "5-30-25",
+        "filename": "Theoretical-DigitalCommunications-Lec-6.pdf"
+      },
+      {
+        "num": "",
+        "title": "introduction to digital communication (2)",
+        "type": "نظري/عام",
+        "date": "Aug 30",
+        "filename": "introduction to digital communication (2).pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Digital Communications-lec-5",
+        "type": "نظري",
+        "date": "Aug 30",
+        "filename": "Theoretical-Digital Communications-lec-5.pdf"
+      },
+      {
+        "num": "",
+        "title": "Support- Digital Communications-1,2",
+        "type": "نظري/عام",
+        "date": "Jun 25",
+        "filename": "Support- Digital Communications-1,2.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Digital Communications-lec-7 (2) (2)",
+        "type": "نظري",
+        "date": "Sep 15",
+        "filename": "Theoretical-Digital Communications-lec-7 (2) (2).pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-Digital Communications-lec-9 (2) (2)",
+        "type": "نظري",
+        "date": "Sep 15",
+        "filename": "Theoretical-Digital Communications-lec-9 (2) (2).pdf"
+      },
+      {
+        "num": "",
+        "title": "Theoretical Digital communication lec(4)",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical Digital communication lec(4).pdf"
+      },
+      {
+        "num": "",
+        "title": "Theoretical-Digital communications lec-(2)",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical-Digital communications lec-(2).pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Digital Communications-lec-3 (3)",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical-Digital Communications-lec-3 (3).pdf"
+      },
+      {
+        "num": "",
+        "title": "Theoretical-Digital-communication-Lec(1) (2)",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical-Digital-communication-Lec(1) (2).pdf"
+      },
+      {
+        "num": "",
+        "title": "Theoretical-Digital-Communications-lec(8) (2)",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical-Digital-Communications-lec(8) (2).pdf"
+      },
+      {
+        "num": "",
+        "title": "Theoretical-DigitalCommuications-lec(6) (3)",
+        "type": "نظري",
+        "date": "Sep 7",
+        "filename": "Theoretical-DigitalCommuications-lec(6) (3).pdf"
+      }
+    ],
+    "انكليزي 3": [
+      {
+        "num": "3",
+        "title": "Theoretical-English3-Lec-3",
+        "type": "نظري",
+        "date": "12-5-24",
+        "filename": "Theoretical-English3-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical _English3_Lec 4",
+        "type": "نظري",
+        "date": "3-15-25",
+        "filename": "Theoretical _English3_Lec 4.pdf"
+      },
+      {
+        "num": "1+2",
+        "title": "Theoretical _English3_lec1+2-1",
+        "type": "نظري",
+        "date": "3-15-25",
+        "filename": "Theoretical _English3_lec1+2-1.pdf"
+      },
+      {
+        "num": "5",
+        "title": "__Theoretical _English3_Lec 5",
+        "type": "نظري",
+        "date": "3-15-25",
+        "filename": "__Theoretical _English3_Lec 5.pdf"
+      }
+    ],
+    "انكليزي 4": [
+      {
+        "num": "2",
+        "title": "English4-Unit19-lec2",
+        "type": "نظري/عام",
+        "date": "Sep 8",
+        "filename": "English4-Unit19-lec2.pdf"
+      },
+      {
+        "num": "1",
+        "title": "English4_unit 24_lec1",
+        "type": "نظري/عام",
+        "date": "Sep 8",
+        "filename": "English4_unit 24_lec1.pdf"
+      },
+      {
+        "num": "",
+        "title": "Support-2-English4 (1)",
+        "type": "نظري/عام",
+        "date": "Sep 8",
+        "filename": "Support-2-English4 (1).pdf"
+      },
+      {
+        "num": "",
+        "title": "Support-English4 (1)",
+        "type": "نظري/عام",
+        "date": "Sep 8",
+        "filename": "Support-English4 (1).pdf"
+      }
+    ]
+  },
+  "سنة ثالثة": {
+    "أساسيات الشبكات": [
+      {
+        "num": "2",
+        "title": "Practical-NetworkFundamentals-Lec-2",
+        "type": "عملي",
+        "date": "11-20-24",
+        "filename": "Practical-NetworkFundamentals-Lec-2.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-NetworkFundamentals-Lec-1",
+        "type": "عملي",
+        "date": "11-6-24",
+        "filename": "Practical-NetworkFundamentals-Lec-1 .pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-NetworkFundamentals-Lec-4",
+        "type": "عملي",
+        "date": "12-2-24",
+        "filename": "Practical-NetworkFundamentals-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-NetworkFundamentals-Lec-5",
+        "type": "عملي",
+        "date": "12-21-24",
+        "filename": "Practical-NetworkFundamentals-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-NetworkFundamentals-Lec-6",
+        "type": "نظري",
+        "date": "2-13-25",
+        "filename": "Theoretical-NetworkFundamentals-Lec-6.pdf"
+      },
+      {
+        "num": "",
+        "title": "Networks Basics Extension",
+        "type": "نظري/عام",
+        "date": "4-16-25",
+        "filename": "Networks Basics Extension.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-NetworkFundamentals-Lec-3",
+        "type": "عملي",
+        "date": "4-16-25",
+        "filename": "Practical-NetworkFundamentals-Lec-3.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-NetworkFundamentals-Lec-6",
+        "type": "عملي",
+        "date": "4-16-25",
+        "filename": "Practical-NetworkFundamentals-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-NetworkFundamentals-Lec-7",
+        "type": "عملي",
+        "date": "4-16-25",
+        "filename": "Practical-NetworkFundamentals-Lec-7.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-NetworkFundamentals-Lec-1",
+        "type": "نظري",
+        "date": "4-16-25",
+        "filename": "Theoretical-NetworkFundamentals-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-NetworkFundamentals-Lec-2",
+        "type": "نظري",
+        "date": "4-16-25",
+        "filename": "Theoretical-NetworkFundamentals-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-NetworkFundamentals-Lec-3",
+        "type": "نظري",
+        "date": "4-16-25",
+        "filename": "Theoretical-NetworkFundamentals-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-NetworkFundamentals-Lec-4",
+        "type": "نظري",
+        "date": "4-16-25",
+        "filename": "Theoretical-NetworkFundamentals-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-NetworkFundamentals-Lec-5",
+        "type": "نظري",
+        "date": "4-16-25",
+        "filename": "Theoretical-NetworkFundamentals-Lec-5.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-NetworkFundamentals-Lec-7",
+        "type": "نظري",
+        "date": "4-16-25",
+        "filename": "Theoretical-NetworkFundamentals-Lec-7.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Network-Fundamentals-Lec-1",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Network-Fundamentals-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Network-Fundamentals-Lec-2",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Network-Fundamentals-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Network-Fundamentals-Lec-3",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Network-Fundamentals-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Network-Fundamentals-Lec-4",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Network-Fundamentals-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Network-Fundamentals-Lec-5",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Network-Fundamentals-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-Network-Fundamentals-Lec-6",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Network-Fundamentals-Lec-6.pdf"
+      },
+      {
+        "num": "7+8",
+        "title": "Practical-Network-Fundamentals-Lec-7+8",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Network-Fundamentals-Lec-7+8.pdf"
+      },
+      {
+        "num": "",
+        "title": "Theoretical-Network-Fundamentals-Extension",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Network-Fundamentals-Extension.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Network-Fundamentals-Lec-1",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Network-Fundamentals-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Network-Fundamentals-Lec-2",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Network-Fundamentals-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Network-Fundamentals-Lec-3",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Network-Fundamentals-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Network-Fundamentals-Lec-4",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Network-Fundamentals-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Network-Fundamentals-Lec-5",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Network-Fundamentals-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Network-Fundamentals-Lec-6",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Network-Fundamentals-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Network-Fundamentals-Lec-7",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Network-Fundamentals-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Network-Fundamentals-Lec-8",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Network-Fundamentals-Lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-Network-Fundamentals-Lec-9",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Network-Fundamentals-Lec-9.pdf"
+      }
+    ],
+    "بيانيات حاسوبية": [
+      {
+        "num": "6",
+        "title": "6.Scan Conversion",
+        "type": "نظري/عام",
+        "date": "1-29-25",
+        "filename": "6.Scan Conversion.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3.Transformations",
+        "type": "نظري/عام",
+        "date": "11-14-24",
+        "filename": "3.Transformations.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1.General Introduction",
+        "type": "نظري/عام",
+        "date": "11-2-24",
+        "filename": "1.General Introduction.pdf"
+      },
+      {
+        "num": "",
+        "title": "OpenGL SetUP Guid",
+        "type": "نظري/عام",
+        "date": "11-2-24",
+        "filename": "OpenGL SetUP Guid.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4.Texture",
+        "type": "نظري/عام",
+        "date": "11-22-24",
+        "filename": "4.Texture.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5.vision and control",
+        "type": "نظري/عام",
+        "date": "11-24-24",
+        "filename": "5.vision and control.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1+2_Introduction   drawing primitives",
+        "type": "نظري/عام",
+        "date": "11-8-24",
+        "filename": "1+2_Introduction   drawing primitives.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6.lighting",
+        "type": "نظري/عام",
+        "date": "12-1-24",
+        "filename": "6.lighting.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Computer-Ghrapics-Lec-1",
+        "type": "نظري",
+        "date": "12-1-25",
+        "filename": "Theoretical-Computer-Ghrapics-Lec-1.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4. Projections",
+        "type": "نظري/عام",
+        "date": "12-2-24",
+        "filename": "4. Projections.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7.3D models and effects",
+        "type": "نظري/عام",
+        "date": "12-20-24",
+        "filename": "7.3D models and effects.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2. 3D Object Representations",
+        "type": "نظري/عام",
+        "date": "4-15-25",
+        "filename": "2. 3D Object Representations.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3. Geometrical Transformations Viewing",
+        "type": "نظري/عام",
+        "date": "4-15-25",
+        "filename": "3. Geometrical Transformations Viewing.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5.Viewing Camera and Canonical Viewing Volume",
+        "type": "نظري/عام",
+        "date": "4-15-25",
+        "filename": "5.Viewing Camera and Canonical Viewing Volume.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7.Filling Area   Color and illumination",
+        "type": "نظري/عام",
+        "date": "4-15-25",
+        "filename": "7.Filling Area   Color and illumination.pdf"
+      },
+      {
+        "num": "",
+        "title": "ملحق امتحاني",
+        "type": "ملحق",
+        "date": "4-15-25",
+        "filename": "ملحق امتحاني.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Computer-Ghrapics-Lec-7",
+        "type": "نظري",
+        "date": "Feb 12",
+        "filename": "Theoretical-Computer-Ghrapics-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Computer-Ghrapics-Lec-8",
+        "type": "نظري",
+        "date": "Feb 12",
+        "filename": "Theoretical-Computer-Ghrapics-Lec-8.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Computer-Ghrapics-Lec-4",
+        "type": "نظري",
+        "date": "Feb 6",
+        "filename": "Theoretical-Computer-Ghrapics-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Computer-Ghrapics-Lec-5",
+        "type": "نظري",
+        "date": "Feb 6",
+        "filename": "Theoretical-Computer-Ghrapics-Lec-5.pdf"
+      },
+      {
+        "num": "10",
+        "title": "Theoretical-Computer-Ghrapics-Lec-10",
+        "type": "نظري",
+        "date": "Mar 11",
+        "filename": "Theoretical-Computer-Ghrapics-Lec-10.pdf"
+      },
+      {
+        "num": "11",
+        "title": "Theoretical-Computer-Ghrapics-Lec-11",
+        "type": "نظري",
+        "date": "Mar 11",
+        "filename": "Theoretical-Computer-Ghrapics-Lec-11.pdf"
+      },
+      {
+        "num": "12+13",
+        "title": "Theoretical-Computer-Ghrapics-Lec-12+13",
+        "type": "نظري",
+        "date": "Mar 11",
+        "filename": "Theoretical-Computer-Ghrapics-Lec-12+13.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Computer-Ghrapics-Lec-2",
+        "type": "نظري",
+        "date": "Mar 11",
+        "filename": "Theoretical-Computer-Ghrapics-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Computer-Ghrapics-Lec-3",
+        "type": "نظري",
+        "date": "Mar 11",
+        "filename": "Theoretical-Computer-Ghrapics-Lec-3.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Computer-Ghrapics-Lec-6",
+        "type": "نظري",
+        "date": "Mar 11",
+        "filename": "Theoretical-Computer-Ghrapics-Lec-6.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-Computer-Ghrapics-Lec-9",
+        "type": "نظري",
+        "date": "Mar 11",
+        "filename": "Theoretical-Computer-Ghrapics-Lec-9.pdf"
+      }
+    ],
+    "بحوث العمليات": [
+      {
+        "num": "6",
+        "title": "OperationResearch-Lec-6",
+        "type": "نظري/عام",
+        "date": "11-23-24",
+        "filename": "OperationResearch-Lec-6.pdf"
+      },
+      {
+        "num": "",
+        "title": "ملحق امتحاني - بحوث العمليات",
+        "type": "عملي",
+        "date": "2-2-25",
+        "filename": "ملحق امتحاني - بحوث العمليات.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1- النمذجة باستخدام البرمجة الخطية",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "1- النمذجة باستخدام البرمجة الخطية.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2- الطريقة البيانية في حل مسائل البرمجة الخطية",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "2- الطريقة البيانية في حل مسائل البرمجة الخطية.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3- حالات خاصة في الطريقة البيانية",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "3- حالات خاصة في الطريقة البيانية.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4- الصيغة القياسية و المتغيرات الأساسية",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "4- الصيغة القياسية و المتغيرات الأساسية.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5- الحل الأساسي المقبول المجاور",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "5- الحل الأساسي المقبول المجاور.pdf"
+      },
+      {
+        "num": "1",
+        "title": "OperationResearch-Lec-1",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "OperationResearch-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "OperationResearch-Lec-2",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "OperationResearch-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "OperationResearch-Lec-3",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "OperationResearch-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "OperationResearch-Lec-4",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "OperationResearch-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "OperationResearch-Lec-5",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "OperationResearch-Lec-5.pdf"
+      },
+      {
+        "num": "7",
+        "title": "OperationsResearch-Lec-7",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "OperationsResearch-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "OperationsResearch-Lec-8",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "OperationsResearch-Lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "OperationsResearch-Lec-9",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "OperationsResearch-Lec-9.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Operations-Research-Lec-1",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Operations-Research-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Operations-Research-Lec-2",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Operations-Research-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Operations-Research-Lec-3",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Operations-Research-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Operations-Research-Lec-4",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Operations-Research-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Operations-Research-Lec-5",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Operations-Research-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-Operations-Research-Lec-6",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Operations-Research-Lec-6.pdf"
+      },
+      {
+        "num": "1+2",
+        "title": "Theoretical-Operations-Research-Lec-1+2",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Operations-Research-Lec-1+2.pdf"
+      },
+      {
+        "num": "10",
+        "title": "Theoretical-Operations-Research-Lec-10",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Operations-Research-Lec-10.pdf"
+      },
+      {
+        "num": "11",
+        "title": "Theoretical-Operations-Research-Lec-11",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Operations-Research-Lec-11.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Operations-Research-Lec-3",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Operations-Research-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Operations-Research-Lec-4",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Operations-Research-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Operations-Research-Lec-5",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Operations-Research-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Operations-Research-Lec-6",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Operations-Research-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Operations-Research-Lec-7",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Operations-Research-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Operations-Research-Lec-8",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Operations-Research-Lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-Operations-Research-Lec-9",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Operations-Research-Lec-9.pdf"
+      }
+    ],
+    "بنيان الحواسيب 2": [
+      {
+        "num": "",
+        "title": "ملحق امتحاني بنيان حاسوب 2",
+        "type": "ملحق",
+        "date": "2-17-25",
+        "filename": "ملحق امتحاني بنيان حاسوب 2.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1- Review of computer architecture1 concepts",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "1- Review of computer architecture1 concepts.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1-Computer performance review",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "1-Computer performance review.pdf"
+      },
+      {
+        "num": "10",
+        "title": "10-Advanced pipelining2",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "10-Advanced pipelining2.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2- Finite state machines (FSM)",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "2- Finite state machines (FSM).pdf"
+      },
+      {
+        "num": "2",
+        "title": "2-Performance",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "2-Performance.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3- control unit design 1",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "3- control unit design 1.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3-Control Unit Operation",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "3-Control Unit Operation.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4- control unit design 2",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "4- control unit design 2.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4-Control unit design",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "4-Control unit design.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5- Pipelining 1",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "5- Pipelining 1.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5- Pipelining",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "5- Pipelining.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6-Advanced pipelining",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "6-Advanced pipelining.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6-Pipelining-2",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "6-Pipelining-2.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7- pipelining 3",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "7- pipelining 3.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7-Memory Hierarchy  Cache memory",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "7-Memory Hierarchy  Cache memory.pdf"
+      },
+      {
+        "num": "8",
+        "title": "8- Cache Memory 2.docx",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "8- Cache Memory 2.docx.pdf"
+      },
+      {
+        "num": "8",
+        "title": "8- Cache Memory",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "8- Cache Memory.pdf"
+      },
+      {
+        "num": "9",
+        "title": "9- Virtual Machines.docx",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "9- Virtual Machines.docx.pdf"
+      },
+      {
+        "num": "9",
+        "title": "9- Virtual Machines",
+        "type": "نظري/عام",
+        "date": "4-14-25",
+        "filename": "9- Virtual Machines.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Computer-Architecture-2-Lec-1",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Computer-Architecture-2-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Computer-Architecture-2-Lec-2",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Computer-Architecture-2-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Computer-Architecture-2-Lec-3",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Computer-Architecture-2-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Computer-Architecture-2-Lec-4",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Computer-Architecture-2-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Computer-Architecture-2-Lec-5",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Computer-Architecture-2-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-Computer-Architecture-2-Lec-6",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Computer-Architecture-2-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Practical-Computer-Architecture-2-Lec-7",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Computer-Architecture-2-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Practical-Computer-Architecture-2-Lec-8",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Computer-Architecture-2-Lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Practical-Computer-Architecture-2-Lec-9",
+        "type": "عملي",
+        "date": "Apr 4",
+        "filename": "Practical-Computer-Architecture-2-Lec-9.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Computer-Architecture-2-Lec-1",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Computer-Architecture-2-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Computer-Architecture-2-Lec-2",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Computer-Architecture-2-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Computer-Architecture-2-Lec-3",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Computer-Architecture-2-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Computer-Architecture-2-Lec-4",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Computer-Architecture-2-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Computer-Architecture-2-Lec-5",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Computer-Architecture-2-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Computer-Architecture-2-Lec-6",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Computer-Architecture-2-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Computer-Architecture-2-Lec-7",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Computer-Architecture-2-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Computer-Architecture-2-Lec-8",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Computer-Architecture-2-Lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-Computer-Architecture-2-Lec-9",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Computer-Architecture-2-Lec-9.pdf"
+      }
+    ],
+    "قواعد معطيات 1": [
+      {
+        "num": "6",
+        "title": "Theoritical-Databases-Lec-6",
+        "type": "نظري/عام",
+        "date": "Jul 13",
+        "filename": "Theoritical-Databases-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoritical-Databases-Lec-7",
+        "type": "نظري/عام",
+        "date": "Jul 15",
+        "filename": "Theoritical-Databases-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoritical-Databases-Lec-8",
+        "type": "نظري/عام",
+        "date": "Jul 17",
+        "filename": "Theoritical-Databases-Lec-8.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoritical-Databases-Lec-5",
+        "type": "نظري/عام",
+        "date": "Jul 9",
+        "filename": "Theoritical-Databases-Lec-5.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoritical-Databases-Lec-1",
+        "type": "نظري/عام",
+        "date": "Jun 15",
+        "filename": "Theoritical-Databases-Lec-1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoritical-Databases-Lec-2",
+        "type": "نظري/عام",
+        "date": "Jun 15",
+        "filename": "Theoritical-Databases-Lec-2.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoritical-Databases-Lec-4",
+        "type": "نظري/عام",
+        "date": "Jun 15",
+        "filename": "Theoritical-Databases-Lec-4.pdf"
+      },
+      {
+        "num": "",
+        "title": "ملحق قواعد المعطيات1",
+        "type": "ملحق",
+        "date": "Jun 21",
+        "filename": "ملحق قواعد المعطيات1.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoritical-Databases-Lec-3",
+        "type": "نظري/عام",
+        "date": "Jun 8",
+        "filename": "Theoritical-Databases-Lec-3.pdf"
+      },
+      {
+        "num": "",
+        "title": "Practical_Data Base_1",
+        "type": "عملي",
+        "date": "5-17-25",
+        "filename": "Practical_Data Base_1.pdf"
+      },
+      {
+        "num": "",
+        "title": "Practical_Data Base _4",
+        "type": "عملي",
+        "date": "9-22-25",
+        "filename": "Practical_Data Base _4.pdf"
+      },
+      {
+        "num": "",
+        "title": "Practical_Data Base _6",
+        "type": "عملي",
+        "date": "9-22-25",
+        "filename": "Practical_Data Base _6.pdf"
+      },
+      {
+        "num": "",
+        "title": "Practical_Data Base_2",
+        "type": "عملي",
+        "date": "9-22-25",
+        "filename": "Practical_Data Base_2.pdf"
+      },
+      {
+        "num": "",
+        "title": "Practical_Data Base_5",
+        "type": "عملي",
+        "date": "9-22-25",
+        "filename": "Practical_Data Base_5.pdf"
+      },
+      {
+        "num": "",
+        "title": "Practical_Data_Base_3",
+        "type": "عملي",
+        "date": "9-22-25",
+        "filename": "Practical_Data_Base_3.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Data Base-lec-1",
+        "type": "نظري",
+        "date": "9-22-25",
+        "filename": "Theoretical-Data Base-lec-1 .pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Data Base-lec-2",
+        "type": "نظري",
+        "date": "9-22-25",
+        "filename": "Theoretical-Data Base-lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Data Base-lec-3",
+        "type": "نظري",
+        "date": "9-22-25",
+        "filename": "Theoretical-Data Base-lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Data Base-lec-4",
+        "type": "نظري",
+        "date": "9-22-25",
+        "filename": "Theoretical-Data Base-lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Data Base-lec-5",
+        "type": "نظري",
+        "date": "9-22-25",
+        "filename": "Theoretical-Data Base-lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Data Base-lec-6",
+        "type": "نظري",
+        "date": "9-22-25",
+        "filename": "Theoretical-Data Base-lec-6.pdf"
+      },
+      {
+        "num": "",
+        "title": "ملحق امتحاني",
+        "type": "ملحق",
+        "date": "9-22-25",
+        "filename": "ملحق امتحاني.pdf"
+      }
+    ],
+    "لغات البرمجة": [
+      {
+        "num": "1",
+        "title": "1+2.App Architecture and Career Pathways",
+        "type": "نظري/عام",
+        "date": "11-12-24",
+        "filename": "1+2.App Architecture and Career Pathways.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3.Exploring the Essence of the web",
+        "type": "نظري/عام",
+        "date": "12-22-24",
+        "filename": "3.Exploring the Essence of the web.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4.Session &amp; Cookies and Software Architecture",
+        "type": "نظري/عام",
+        "date": "2-28-25",
+        "filename": "4.Session &amp; Cookies and Software Architecture.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5.Web services and Authentication   Authorization",
+        "type": "نظري/عام",
+        "date": "2-28-25",
+        "filename": "5.Web services and Authentication   Authorization.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6.Storage Data",
+        "type": "نظري/عام",
+        "date": "2-28-25",
+        "filename": "6.Storage Data.pdf"
+      },
+      {
+        "num": "",
+        "title": "programming languages extension",
+        "type": "نظري/عام",
+        "date": "3-3-25",
+        "filename": "programming languages extension.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Programming-Languages-Lec-1",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Programming-Languages-Lec-1.pdf"
+      },
+      {
+        "num": "10",
+        "title": "Theoretical-Programming-Languages-Lec-10",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Programming-Languages-Lec-10.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Programming-Languages-Lec-2",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Programming-Languages-Lec-2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical-Programming-Languages-Lec-3",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Programming-Languages-Lec-3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Programming-Languages-Lec-4",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Programming-Languages-Lec-4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Programming-Languages-Lec-5",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Programming-Languages-Lec-5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Programming-Languages-Lec-6",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Programming-Languages-Lec-6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Programming-Languages-Lec-7",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Programming-Languages-Lec-7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Programming-Languages-Lec-8",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Programming-Languages-Lec-8.pdf"
+      },
+      {
+        "num": "9",
+        "title": "Theoretical-Programming-Languages-Lec-9",
+        "type": "نظري",
+        "date": "Apr 4",
+        "filename": "Theoretical-Programming-Languages-Lec-9.pdf"
+      }
+    ],
+    "لغات صورية": [
+      {
+        "num": "1",
+        "title": "1.introduction &amp; overview",
+        "type": "نظري/عام",
+        "date": "4-29-25",
+        "filename": "1.introduction &amp; overview.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3.NFAs &amp; ε NFAs",
+        "type": "نظري/عام",
+        "date": "6-14-25",
+        "filename": "3.NFAs &amp; ε NFAs.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4.Regular Expressions",
+        "type": "نظري/عام",
+        "date": "7-19-25",
+        "filename": "4.Regular Expressions.pdf"
+      },
+      {
+        "num": "9",
+        "title": "9.Pushdown Automata",
+        "type": "نظري/عام",
+        "date": "8-12-25",
+        "filename": "9.Pushdown Automata.pdf"
+      },
+      {
+        "num": "8",
+        "title": "8.Context Free Grammer Part2",
+        "type": "نظري/عام",
+        "date": "8-22-25",
+        "filename": "8.Context Free Grammer Part2.pdf"
+      },
+      {
+        "num": "10",
+        "title": "10.Turing Machine part 1",
+        "type": "نظري/عام",
+        "date": "8-24-25",
+        "filename": "10.Turing Machine part 1.pdf"
+      },
+      {
+        "num": "11",
+        "title": "11.Turing Machine part 2",
+        "type": "نظري/عام",
+        "date": "8-24-25",
+        "filename": "11.Turing Machine part 2.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1. مقدمة عن الأوتومات",
+        "type": "نظري/عام",
+        "date": "9-22-25",
+        "filename": "1. مقدمة عن الأوتومات.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2.Finite Automata DFA &amp; NFA",
+        "type": "نظري/عام",
+        "date": "9-22-25",
+        "filename": "2.Finite Automata DFA &amp; NFA.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2.Revision and More",
+        "type": "نظري/عام",
+        "date": "9-22-25",
+        "filename": "2.Revision and More.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3.Equivalence of NFA &amp; DFA",
+        "type": "نظري/عام",
+        "date": "9-22-25",
+        "filename": "3.Equivalence of NFA &amp; DFA.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4.Reguler Expretion",
+        "type": "نظري/عام",
+        "date": "9-22-25",
+        "filename": "4.Reguler Expretion.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5.Regular Expressions part 2",
+        "type": "نظري/عام",
+        "date": "9-22-25",
+        "filename": "5.Regular Expressions part 2.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5.التحويل من أوتمات الى Reguler Expretion",
+        "type": "نظري/عام",
+        "date": "9-22-25",
+        "filename": "5.التحويل من أوتمات الى Reguler Expretion.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6.Equivalence and Minimization of DFAs",
+        "type": "نظري/عام",
+        "date": "9-22-25",
+        "filename": "6.Equivalence and Minimization of DFAs.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6.Minimization Automata",
+        "type": "نظري/عام",
+        "date": "9-22-25",
+        "filename": "6.Minimization Automata.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7.Context Free Grammar (CFG)",
+        "type": "نظري/عام",
+        "date": "9-22-25",
+        "filename": "7.Context Free Grammar (CFG).pdf"
+      },
+      {
+        "num": "7",
+        "title": "7.Regular Grammer &amp; Context Free Grammer",
+        "type": "نظري/عام",
+        "date": "9-22-25",
+        "filename": "7.Regular Grammer &amp; Context Free Grammer.pdf"
+      },
+      {
+        "num": "8",
+        "title": "8.Push Dwon Automata (PDA)",
+        "type": "نظري/عام",
+        "date": "9-22-25",
+        "filename": "8.Push Dwon Automata (PDA).pdf"
+      },
+      {
+        "num": "",
+        "title": "ملحق عملي",
+        "type": "عملي",
+        "date": "9-22-25",
+        "filename": "ملحق عملي.pdf"
+      }
+    ],
+    "مبادئ ذكاء صنعي": [
+      {
+        "num": "4",
+        "title": "Theoretical-Artificial-Intelligenc-Lec_4",
+        "type": "نظري",
+        "date": "Jul 13",
+        "filename": "Theoretical-Artificial-Intelligenc-Lec_4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Artificial-Intelligenc-Lec_5",
+        "type": "نظري",
+        "date": "Jul 13",
+        "filename": "Theoretical-Artificial-Intelligenc-Lec_5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Artificial-Intelligenc-Lec_6",
+        "type": "نظري",
+        "date": "Jul 22",
+        "filename": "Theoretical-Artificial-Intelligenc-Lec_6.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoretical_Artificial_Intelligence_Lec_3",
+        "type": "نظري",
+        "date": "Jun 15",
+        "filename": "Theoretical_Artificial_Intelligence_Lec_3.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-Artificial-Intelligenc-Lec_6",
+        "type": "عملي",
+        "date": "Jun 27",
+        "filename": "Practical-Artificial-Intelligenc-Lec_6.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Artificial-Intelligenc-Lec_5",
+        "type": "عملي",
+        "date": "Jun 8",
+        "filename": "Practical-Artificial-Intelligenc-Lec_5.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Artificial-Intelligenc-Lec_2",
+        "type": "نظري",
+        "date": "Jun 8",
+        "filename": "Theoretical-Artificial-Intelligenc-Lec_2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Artificial-Intelligenc-Lec_3",
+        "type": "عملي",
+        "date": "May 14",
+        "filename": "Practical-Artificial-Intelligenc-Lec_3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Artificial-Intelligenc-Lec_4",
+        "type": "عملي",
+        "date": "May 25",
+        "filename": "Practical-Artificial-Intelligenc-Lec_4.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Artificial-Intelligenc-Lec_1",
+        "type": "نظري",
+        "date": "May 25",
+        "filename": "Theoretical-Artificial-Intelligenc-Lec_1.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Artificial-Intelligenc-Lec_1",
+        "type": "عملي",
+        "date": "May 7",
+        "filename": "Practical-Artificial-Intelligenc-Lec_1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Artificial-Intelligenc-Lec_2",
+        "type": "عملي",
+        "date": "May 7",
+        "filename": "Practical-Artificial-Intelligenc-Lec_2.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2- تطبيق العمليات المنطقية  prolog",
+        "type": "عملي",
+        "date": "5-17-25",
+        "filename": "2- تطبيق العمليات المنطقية  prolog.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1- Introduction to prolog",
+        "type": "نظري/عام",
+        "date": "5-3-25",
+        "filename": "1- Introduction to prolog.pdf"
+      }
+    ],
+    "اوتومات": [
+      {
+        "num": "3",
+        "title": "Theoretical-Automata-Lec_3",
+        "type": "نظري",
+        "date": "Aug 1",
+        "filename": "Theoretical-Automata-Lec_3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoretical-Automata-Lec_4",
+        "type": "نظري",
+        "date": "Aug 1",
+        "filename": "Theoretical-Automata-Lec_4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoretical-Automata-lec_5",
+        "type": "نظري",
+        "date": "Aug 1",
+        "filename": "Theoretical-Automata-lec_5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Theoretical-Automata-lec_6",
+        "type": "نظري",
+        "date": "Aug 1",
+        "filename": "Theoretical-Automata-lec_6.pdf"
+      },
+      {
+        "num": "7",
+        "title": "Theoretical-Automata-lec_7",
+        "type": "نظري",
+        "date": "Aug 3",
+        "filename": "Theoretical-Automata-lec_7.pdf"
+      },
+      {
+        "num": "8",
+        "title": "Theoretical-Automata-lec_8",
+        "type": "نظري",
+        "date": "Aug 3",
+        "filename": "Theoretical-Automata-lec_8.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Practical-Automata-Lec1",
+        "type": "عملي",
+        "date": "Jun 23",
+        "filename": "Practical-Automata-Lec1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Practical-Automata-Lec2",
+        "type": "عملي",
+        "date": "Jun 23",
+        "filename": "Practical-Automata-Lec2.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Practical-Automata-Lec3",
+        "type": "عملي",
+        "date": "Jun 23",
+        "filename": "Practical-Automata-Lec3.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Practical-Automata-Lec4",
+        "type": "عملي",
+        "date": "Jun 23",
+        "filename": "Practical-Automata-Lec4.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Practical-Automata-Lec5",
+        "type": "عملي",
+        "date": "Jun 23",
+        "filename": "Practical-Automata-Lec5.pdf"
+      },
+      {
+        "num": "6",
+        "title": "Practical-Automat-lec6",
+        "type": "عملي",
+        "date": "Jun 24",
+        "filename": "Practical-Automat-lec6.pdf"
+      },
+      {
+        "num": "1",
+        "title": "Theoretical-Automata-Lec_1",
+        "type": "نظري",
+        "date": "May 11",
+        "filename": "Theoretical-Automata-Lec_1.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoretical-Automata-Lec_2",
+        "type": "نظري",
+        "date": "May 11",
+        "filename": "Theoretical-Automata-Lec_2.pdf"
+      }
+    ]
+  },
+  "سنة رابعة": {
+    "البرمجة التفرعية": [
+      {
+        "num": "1",
+        "title": "1. Concurrent Access &amp; Thread Safety",
+        "type": "نظري/عام",
+        "date": "Apr 12",
+        "filename": "1. Concurrent Access &amp; Thread Safety.pdf"
+      },
+      {
+        "num": "10",
+        "title": "10. الاستقراء والتقطيع البنيوي",
+        "type": "نظري/عام",
+        "date": "Jul 21",
+        "filename": "10. الاستقراء والتقطيع البنيوي.pdf"
+      },
+      {
+        "num": "11",
+        "title": "11. البرمجيات الوسيطة",
+        "type": "نظري/عام",
+        "date": "Jul 21",
+        "filename": "11. البرمجيات الوسيطة.pdf"
+      },
+      {
+        "num": "12",
+        "title": "12. Middleware in distributed applications",
+        "type": "نظري/عام",
+        "date": "Jul 21",
+        "filename": "12. Middleware in distributed applications.pdf"
+      },
+      {
+        "num": "13",
+        "title": "13. Developing services in distributed systems",
+        "type": "نظري/عام",
+        "date": "Jul 21",
+        "filename": "13. Developing services in distributed systems.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7. تتمة البنيان المؤسساتي",
+        "type": "نظري/عام",
+        "date": "Jul 21",
+        "filename": "7. تتمة البنيان المؤسساتي.pdf"
+      },
+      {
+        "num": "8",
+        "title": "8.Concurrency Management Strategies and Performance Optimiz",
+        "type": "نظري/عام",
+        "date": "Jul 21",
+        "filename": "8.Concurrency Management Strategies and Performance Optimiz.pdf"
+      },
+      {
+        "num": "9",
+        "title": "9. Distributed systems",
+        "type": "نظري/عام",
+        "date": "Jul 21",
+        "filename": "9. Distributed systems.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1+2. Introduction to parallel programming",
+        "type": "نظري/عام",
+        "date": "Jun 20",
+        "filename": "1+2. Introduction to parallel programming.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3. توصيف المتطلبات غير الوظيفية",
+        "type": "نظري/عام",
+        "date": "Jun 20",
+        "filename": "3. توصيف المتطلبات غير الوظيفية.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4. Advanced NFRs Description",
+        "type": "نظري/عام",
+        "date": "Jun 20",
+        "filename": "4. Advanced NFRs Description.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5. Layers of Architecture &amp; Design Patterns",
+        "type": "نظري/عام",
+        "date": "Jun 20",
+        "filename": "5. Layers of Architecture &amp; Design Patterns.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6. EnterPrise Architicure",
+        "type": "نظري/عام",
+        "date": "Jun 20",
+        "filename": "6. EnterPrise Architicure.pdf"
+      }
+    ],
+    "خوارزميات البحث الذكية": [
+      {
+        "num": "1",
+        "title": "1.The core of intelligent search",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "1.The core of intelligent search.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1.مقدمة عن خوارزميات البحث",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "1.مقدمة عن خوارزميات البحث.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2- Blind Search",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "2- Blind Search.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3- heuristic search",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "3- heuristic search.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4-AND OR GRAPH",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "4-AND OR GRAPH.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5- Games",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "5- Games.pdf"
+      },
+      {
+        "num": "",
+        "title": "خوارزميات_البحث_عملي_2_",
+        "type": "عملي",
+        "date": "Apr 3",
+        "filename": "خوارزميات_البحث_عملي_2_.pdf"
+      },
+      {
+        "num": "",
+        "title": "خوارزميات_البحث_عملي_3",
+        "type": "عملي",
+        "date": "Apr 3",
+        "filename": "خوارزميات_البحث_عملي_3.pdf"
+      },
+      {
+        "num": "",
+        "title": "خوارزميات_البحث_عملي_4",
+        "type": "عملي",
+        "date": "Apr 3",
+        "filename": "خوارزميات_البحث_عملي_4.pdf"
+      },
+      {
+        "num": "",
+        "title": "خوارزميات_البحث_عملي_6",
+        "type": "عملي",
+        "date": "Apr 3",
+        "filename": "خوارزميات_البحث_عملي_6.pdf"
+      },
+      {
+        "num": "",
+        "title": "KBS-2",
+        "type": "نظري/عام",
+        "date": "6-28-25",
+        "filename": "KBS-2.pdf"
+      },
+      {
+        "num": "",
+        "title": "KBS-3",
+        "type": "نظري/عام",
+        "date": "6-28-25",
+        "filename": "KBS-3.pdf"
+      },
+      {
+        "num": "",
+        "title": "KBS-1",
+        "type": "نظري/عام",
+        "date": "6-7-25",
+        "filename": "KBS-1.pdf"
+      },
+      {
+        "num": "",
+        "title": "theoretical_Virtual_Reality_ 1+2",
+        "type": "نظري",
+        "date": "6-7-25",
+        "filename": "theoretical_Virtual_Reality_ 1+2.pdf"
+      },
+      {
+        "num": "",
+        "title": "theoretical_Virtual_Reality_3",
+        "type": "نظري",
+        "date": "6-7-25",
+        "filename": "theoretical_Virtual_Reality_3.pdf"
+      },
+      {
+        "num": "",
+        "title": "theoretical_Virtual_Reality_4",
+        "type": "نظري",
+        "date": "6-7-25",
+        "filename": "theoretical_Virtual_Reality_4.pdf"
+      },
+      {
+        "num": "",
+        "title": "theoretical_Virtual_Reality_5",
+        "type": "نظري",
+        "date": "7-24-25",
+        "filename": "theoretical_Virtual_Reality_5.pdf"
+      },
+      {
+        "num": "",
+        "title": "theoretical_Virtual_Reality_6",
+        "type": "نظري",
+        "date": "7-24-25",
+        "filename": "theoretical_Virtual_Reality_6.pdf"
+      },
+      {
+        "num": "",
+        "title": "theoretical_Virtual_Reality_7",
+        "type": "نظري",
+        "date": "7-24-25",
+        "filename": "theoretical_Virtual_Reality_7.pdf"
+      },
+      {
+        "num": "",
+        "title": "theoretical_Virtual_Reality_8",
+        "type": "نظري",
+        "date": "7-24-25",
+        "filename": "theoretical_Virtual_Reality_8.pdf"
+      },
+      {
+        "num": "",
+        "title": "theoretical_Virtual_Reality_9final",
+        "type": "نظري",
+        "date": "7-24-25",
+        "filename": "theoretical_Virtual_Reality_9final.pdf"
+      },
+      {
+        "num": "",
+        "title": "KBS-4",
+        "type": "نظري/عام",
+        "date": "8-1-25",
+        "filename": "KBS-4.pdf"
+      },
+      {
+        "num": "",
+        "title": "KBS-5",
+        "type": "نظري/عام",
+        "date": "8-1-25",
+        "filename": "KBS-5.pdf"
+      },
+      {
+        "num": "",
+        "title": "KBS-6",
+        "type": "نظري/عام",
+        "date": "8-1-25",
+        "filename": "KBS-6.pdf"
+      }
+    ],
+    "نظم التشغيل 1": [
+      {
+        "num": "1",
+        "title": "1.مقدمة عن نظام التشغيل Linux",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "1.مقدمة عن نظام التشغيل Linux.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1.ملحق المحاضرة الاولى",
+        "type": "ملحق",
+        "date": "Apr 3",
+        "filename": "1.ملحق المحاضرة الاولى.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2.Users and Groups in Linux",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "2.Users and Groups in Linux.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2.ملحق المحاضرة الثانية",
+        "type": "ملحق",
+        "date": "Apr 3",
+        "filename": "2.ملحق المحاضرة الثانية.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3.MULTITASKING AND PROCESSES",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "3.MULTITASKING AND PROCESSES.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3.ملحق المحاضرة الثالثة",
+        "type": "ملحق",
+        "date": "Apr 3",
+        "filename": "3.ملحق المحاضرة الثالثة.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4.CRONTAB AND IP ADDRESSES",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "4.CRONTAB AND IP ADDRESSES.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4.ملحق المحاضرة الرابعة",
+        "type": "ملحق",
+        "date": "Apr 3",
+        "filename": "4.ملحق المحاضرة الرابعة.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5.Variables and Functions in Shell Script",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "5.Variables and Functions in Shell Script.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5.ملحق المحاضرة الخامسة",
+        "type": "ملحق",
+        "date": "Apr 3",
+        "filename": "5.ملحق المحاضرة الخامسة.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6.LOOPS AND CASE STATEMENT",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "6.LOOPS AND CASE STATEMENT.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6.ملحق المحاضرة السادسة",
+        "type": "ملحق",
+        "date": "Apr 3",
+        "filename": "6.ملحق المحاضرة السادسة.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7.ARRAYS",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "7.ARRAYS.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7.ملحق المحاضرة السابعة والأخير",
+        "type": "ملحق",
+        "date": "Apr 3",
+        "filename": "7.ملحق المحاضرة السابعة والأخير.pdf"
+      },
+      {
+        "num": "8",
+        "title": "8.Docker",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "8.Docker.pdf"
+      },
+      {
+        "num": "",
+        "title": "نظم تشغيل - ملحق عملي",
+        "type": "عملي",
+        "date": "Apr 3",
+        "filename": "نظم تشغيل - ملحق عملي.pdf"
+      }
+    ],
+    "نظم الوسائط المتعددة": [
+      {
+        "num": "10",
+        "title": "10. Video Compression",
+        "type": "نظري/عام",
+        "date": "Aug 10",
+        "filename": "10. Video Compression.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2. Colors",
+        "type": "نظري/عام",
+        "date": "Aug 10",
+        "filename": "2. Colors.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3. Image Format",
+        "type": "نظري/عام",
+        "date": "Aug 10",
+        "filename": "3. Image Format.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4. Audio Concepts",
+        "type": "نظري/عام",
+        "date": "Aug 10",
+        "filename": "4. Audio Concepts.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5.Frequency domain",
+        "type": "نظري/عام",
+        "date": "Aug 10",
+        "filename": "5.Frequency domain.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6. Lossless Compression",
+        "type": "نظري/عام",
+        "date": "Aug 10",
+        "filename": "6. Lossless Compression.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7.Audio Compression",
+        "type": "نظري/عام",
+        "date": "Aug 10",
+        "filename": "7.Audio Compression.pdf"
+      },
+      {
+        "num": "8",
+        "title": "8. Image Compression",
+        "type": "نظري/عام",
+        "date": "Aug 10",
+        "filename": "8. Image Compression.pdf"
+      },
+      {
+        "num": "9",
+        "title": "9. Video Concept",
+        "type": "نظري/عام",
+        "date": "Aug 10",
+        "filename": "9. Video Concept.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1.Introduction to Multimedia",
+        "type": "نظري/عام",
+        "date": "May 8",
+        "filename": "1.Introduction to Multimedia.pdf"
+      }
+    ],
+    "هندسة البرمجيات 1": [],
+    "هندسة البرمجيات 2": [
+      {
+        "num": "10",
+        "title": "10. Quality Management",
+        "type": "نظري/عام",
+        "date": "Jul 10",
+        "filename": "10. Quality Management .pdf"
+      },
+      {
+        "num": "11",
+        "title": "11- Software Metrics",
+        "type": "نظري/عام",
+        "date": "Jul 10",
+        "filename": "11- Software Metrics.pdf"
+      },
+      {
+        "num": "8",
+        "title": "8. Project Scheduling",
+        "type": "نظري/عام",
+        "date": "Jul 8",
+        "filename": "8. Project Scheduling.pdf"
+      },
+      {
+        "num": "9",
+        "title": "9. Risk Management",
+        "type": "نظري/عام",
+        "date": "Jul 8",
+        "filename": "9. Risk Management.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1- Review",
+        "type": "نظري/عام",
+        "date": "Jun 20",
+        "filename": "1- Review.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2- Construction&amp; Deployment",
+        "type": "نظري/عام",
+        "date": "Jun 20",
+        "filename": "2- Construction&amp; Deployment.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6- Software Testing&amp;Test Cases",
+        "type": "نظري/عام",
+        "date": "Jun 20",
+        "filename": "6- Software Testing&amp;Test Cases.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7_software_testing_types_&amp;_structural_testing_techniques",
+        "type": "نظري/عام",
+        "date": "Jun 20",
+        "filename": "7_software_testing_types_&amp;_structural_testing_techniques.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3- Testing",
+        "type": "نظري/عام",
+        "date": "Jun 30",
+        "filename": "3- Testing.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4- Testing Process",
+        "type": "نظري/عام",
+        "date": "Jun 30",
+        "filename": "4- Testing Process.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5- Software Testing Techniques &amp; Coverage",
+        "type": "نظري/عام",
+        "date": "Jun 30",
+        "filename": "5- Software Testing Techniques &amp; Coverage.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6. OO Testing &amp; Web App Testing",
+        "type": "نظري/عام",
+        "date": "Jun 30",
+        "filename": "6. OO Testing &amp; Web App Testing.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7. Project Management &amp; Project Planning",
+        "type": "نظري/عام",
+        "date": "Jun 30",
+        "filename": "7. Project Management &amp; Project Planning.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2-Projects Management MS.Project &amp; Jira",
+        "type": "نظري/عام",
+        "date": "May 16",
+        "filename": "2-Projects Management MS.Project &amp; Jira.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3.Gantt Chart &amp; Network Diagram",
+        "type": "نظري/عام",
+        "date": "May 16",
+        "filename": "3.Gantt Chart &amp; Network Diagram.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4- Function Point Analysis",
+        "type": "نظري/عام",
+        "date": "May 16",
+        "filename": "4- Function Point Analysis.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5- Use-Case Point Estimation",
+        "type": "نظري/عام",
+        "date": "May 16",
+        "filename": "5- Use-Case Point Estimation.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1- WBS",
+        "type": "نظري/عام",
+        "date": "May 8",
+        "filename": "1- WBS.pdf"
+      }
+    ],
+    "قواعد المعطيات 2": [
+      {
+        "num": "1",
+        "title": "1.Implementation Of Database",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "1.Implementation Of Database.pdf"
+      },
+      {
+        "num": "1",
+        "title": "1.Review DB1",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "1.Review DB1.pdf"
+      },
+      {
+        "num": "10",
+        "title": "10. Database System Architectures",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "10. Database System Architectures.pdf"
+      },
+      {
+        "num": "11",
+        "title": "11. Distributed Database",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "11. Distributed Database.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2. Indexing",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "2. Indexing.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2.Storage and file structure - part1",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "2.Storage and file structure - part1.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3. Clustered index",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "3. Clustered index.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3.Storage and file structure - part2",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "3.Storage and file structure - part2.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4. Non-Clustered index",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "4. Non-Clustered index.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4.Indexing&amp;Hashing",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "4.Indexing&amp;Hashing.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5.Index&amp;Filter",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "5.Index&amp;Filter.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5.query processing - part1",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "5.query processing - part1.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6. Fragmentation &amp; Join",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "6. Fragmentation &amp; Join.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6.query processing - part2",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "6.query processing - part2.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7. Transaction",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "7. Transaction.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7.query optimization",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "7.query optimization.pdf"
+      },
+      {
+        "num": "8",
+        "title": "8. Procedure and Function",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "8. Procedure and Function.pdf"
+      },
+      {
+        "num": "8",
+        "title": "8.Transaction",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "8.Transaction.pdf"
+      },
+      {
+        "num": "9",
+        "title": "9. Concurrency Control",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "9. Concurrency Control.pdf"
+      },
+      {
+        "num": "9",
+        "title": "9. Triggers",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "9. Triggers.pdf"
+      },
+      {
+        "num": "",
+        "title": "داتا 2 - ملحق امتحاني",
+        "type": "ملحق",
+        "date": "Apr 3",
+        "filename": "داتا 2 - ملحق امتحاني.pdf"
+      },
+      {
+        "num": "",
+        "title": "ملحق عملي",
+        "type": "عملي",
+        "date": "Apr 3",
+        "filename": "ملحق عملي.pdf"
+      }
+    ],
+    "المترجمات 1": [],
+    "الشبكات العصبونية": [
+      {
+        "num": "1",
+        "title": "1. introduction to python",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "1. introduction to python .pdf"
+      },
+      {
+        "num": "2",
+        "title": "2. Perceptron",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "2. Perceptron .pdf"
+      },
+      {
+        "num": "3",
+        "title": "3. أساسيات تطبيق الشبكات العصبية بإستخدام Numpy",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "3. أساسيات تطبيق الشبكات العصبية بإستخدام Numpy.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4. training",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "4. training.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5. training 2",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "5. training 2.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6. تقنيات تدريب الشبكات العصبية",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "6. تقنيات تدريب الشبكات العصبية .pdf"
+      },
+      {
+        "num": "7",
+        "title": "7. PyTorch Basic",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "7. PyTorch Basic.pdf"
+      }
+    ],
+    "بروتوكولات الإتصال": [
+      {
+        "num": "1",
+        "title": "1.Network Protocols",
+        "type": "نظري/عام",
+        "date": "Apr 20",
+        "filename": "1.Network Protocols.pdf"
+      },
+      {
+        "num": "4",
+        "title": "4.DNS Records &amp; P2P",
+        "type": "نظري/عام",
+        "date": "Jul 8",
+        "filename": "4.DNS Records &amp; P2P.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5. Transport Layer Services",
+        "type": "نظري/عام",
+        "date": "Jul 8",
+        "filename": "5. Transport Layer Services.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6. TCPعملية إعادة الإرسال في",
+        "type": "عملي",
+        "date": "Jul 8",
+        "filename": "6. TCPعملية إعادة الإرسال في.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3_SMTP,_HTTP_أنواع_الإتصالات_و_بروتوكولات",
+        "type": "نظري/عام",
+        "date": "Jun 30",
+        "filename": "3_SMTP,_HTTP_أنواع_الإتصالات_و_بروتوكولات.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2_أنواع_التأخير_و_بروتوكولات_الطبقات",
+        "type": "نظري/عام",
+        "date": "May 22",
+        "filename": "2_أنواع_التأخير_و_بروتوكولات_الطبقات.pdf"
+      }
+    ],
+    "تطبيقات شبكية": [
+      {
+        "num": "1",
+        "title": "1-Introduction and TCP Sockets_annotated",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "1-Introduction and TCP Sockets_annotated.pdf"
+      },
+      {
+        "num": "10",
+        "title": "10-Advanced Application Security",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "10-Advanced Application Security .pdf"
+      },
+      {
+        "num": "2",
+        "title": "2- UDP Sockets and Threads_annotated",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "2- UDP Sockets and Threads_annotated.pdf"
+      },
+      {
+        "num": "3",
+        "title": "3-Multi threaded servers (1)",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "3-Multi threaded servers (1).pdf"
+      },
+      {
+        "num": "4",
+        "title": "4-Non Blocking IO",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "4-Non Blocking IO.pdf"
+      },
+      {
+        "num": "5",
+        "title": "5_شرح_بروتوكول_http_وتصميم_البروتوكولات_",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "5_شرح_بروتوكول_http_وتصميم_البروتوكولات_.pdf"
+      },
+      {
+        "num": "6",
+        "title": "6_تتمة_البروتوكلات_ومقدمة_في_Spring_Boot",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "6_تتمة_البروتوكلات_ومقدمة_في_Spring_Boot.pdf"
+      },
+      {
+        "num": "7",
+        "title": "7-Spring Boot",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "7-Spring Boot.pdf"
+      },
+      {
+        "num": "8",
+        "title": "8- Spring Boot _ MVC rest",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "8- Spring Boot _ MVC rest.pdf"
+      },
+      {
+        "num": "9",
+        "title": "9-Security and Web Applications",
+        "type": "نظري/عام",
+        "date": "Apr 3",
+        "filename": "9-Security and Web Applications .pdf"
+      }
+    ],
+    "الحقائق الافتراضية": [
+      {
+        "num": "",
+        "title": "مقدمة إلى الواقع الافتراضي",
+        "type": "نظري/عام",
+        "date": "Apr 30",
+        "filename": "مقدمة إلى الواقع الافتراضي.pdf"
+      },
+      {
+        "num": "",
+        "title": "الضوء_والأنظمة_البصرية_في_الواقع_5",
+        "type": "نظري/عام",
+        "date": "Jul 10",
+        "filename": "الضوء_والأنظمة_البصرية_في_الواقع_5.pdf"
+      },
+      {
+        "num": "",
+        "title": "فيزيولوجيا_الرؤية_البشرية_وإدراك_الحركة_في_أنظمة_الواقع_الافتراضي",
+        "type": "نظري/عام",
+        "date": "Jul 10",
+        "filename": "فيزيولوجيا_الرؤية_البشرية_وإدراك_الحركة_في_أنظمة_الواقع_الافتراضي.pdf"
+      },
+      {
+        "num": "",
+        "title": "البرمجيات والإدراك البشري.3",
+        "type": "نظري/عام",
+        "date": "Jun 30",
+        "filename": "البرمجيات والإدراك البشري.3.pdf"
+      },
+      {
+        "num": "",
+        "title": "النمذجة_الهندسية_والتحويلات_الخطية_في_الواقع_الافتراضي_4",
+        "type": "نظري/عام",
+        "date": "Jun 30",
+        "filename": "النمذجة_الهندسية_والتحويلات_الخطية_في_الواقع_الافتراضي_4.pdf"
+      },
+      {
+        "num": "2",
+        "title": "2_البنية_العتادية_لأنظمة_الواقع_الافتراضي",
+        "type": "نظري/عام",
+        "date": "May 22",
+        "filename": "2_البنية_العتادية_لأنظمة_الواقع_الافتراضي.pdf"
+      }
+    ],
+    "الاقتصاد والادارة": [],
+    "برمجيات": [
+      {
+        "num": "2",
+        "title": "compiler_Lec_2",
+        "type": "نظري/عام",
+        "date": "5-15-25",
+        "filename": "compiler_Lec_2.pdf"
+      },
+      {
+        "num": "1",
+        "title": "compiler_Lec_1",
+        "type": "نظري/عام",
+        "date": "5-5-25",
+        "filename": "compiler_Lec_1.pdf"
+      },
+      {
+        "num": "3",
+        "title": "compiler_Lec_3",
+        "type": "نظري/عام",
+        "date": "8-6-25",
+        "filename": "compiler_Lec_3.pdf"
+      }
+    ],
+    "مشترك": [
+      {
+        "num": "1",
+        "title": "Theoritical-ParallelProgramming-lec1-Dr.Rawan Koroni",
+        "type": "نظري/عام",
+        "date": "6-28-25",
+        "filename": "Theoritical-ParallelProgramming-lec1-Dr.Rawan Koroni.pdf"
+      },
+      {
+        "num": "2",
+        "title": "Theoritical-ParallelProgramming-Lec2-Dr.Rawan Koroni",
+        "type": "نظري/عام",
+        "date": "6-28-25",
+        "filename": "Theoritical-ParallelProgramming-Lec2-Dr.Rawan Koroni.pdf"
+      },
+      {
+        "num": "3",
+        "title": "Theoritical-ParallelProgramming-Lec3-Dr.Rawan Koroni",
+        "type": "نظري/عام",
+        "date": "8-7-25",
+        "filename": "Theoritical-ParallelProgramming-Lec3-Dr.Rawan Koroni.pdf"
+      },
+      {
+        "num": "4",
+        "title": "Theoritical-ParallelProgramming-Lec4-Dr.Rawan Koroni",
+        "type": "نظري/عام",
+        "date": "8-7-25",
+        "filename": "Theoritical-ParallelProgramming-Lec4-Dr.Rawan Koroni.pdf"
+      },
+      {
+        "num": "5",
+        "title": "Theoritical-ParallelProgramming-Lec5-Dr.Rawan Koroni",
+        "type": "نظري/عام",
+        "date": "8-9-25",
+        "filename": "Theoritical-ParallelProgramming-Lec5-Dr.Rawan Koroni.pdf"
+      }
+    ]
+  },
+  "سنة خامسة": {
+    "مشاريع التخرج": [],
+    "الأنظمة المتقدمة": [],
+    "هندسة برمجيات متقدمة": [],
+    "معالجة لغات طبيعية": [],
+    "شبكات متقدمة": []
+  }
+}

@@ -1,0 +1,342 @@
+{
+	"info": {
+		"_postman_id": "faheem-backend-api-v2",
+		"name": "Faheem (فهيم) - Backend API Collection",
+		"description": "مجموعة طلبات Postman الرسمية والشاملة لكافة واجهات REST API الخاصة بمنصة 'فهيم' (Faheem) - كلية الهندسة المعلوماتية، جامعة دمشق.\n\nتعتمد المجموعة على متغير بيئة مركزي `{{base_url}}` بحيث يمكن تغيير خادم الاستضافة (محلي / سحابي) بنقرة زر واحدة.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"variable": [
+		{
+			"key": "base_url",
+			"value": "http://127.0.0.1:8000/api/v1",
+			"type": "string"
+		}
+	],
+	"item": [
+		{
+			"name": "1. النواة الأكاديمية والعلامات (Academic Core)",
+			"item": [
+				{
+					"name": "استعراض السجلات الأكاديمية (Academic Records)",
+					"request": {
+						"method": "GET",
+						"header": [
+							{"key": "Accept", "value": "application/json"}
+						],
+						"url": {
+							"raw": "{{base_url}}/academic/records/?search=",
+							"host": ["{{base_url}}"],
+							"path": ["academic", "records", ""],
+							"query": [
+								{"key": "search", "value": "", "description": "بحث بالاسم أو الرقم الجامعي"}
+							]
+						},
+						"description": "جلب قائمة السجلات الأكاديمية للطلاب مع إمكانية البحث."
+					},
+					"response": []
+				},
+				{
+					"name": "إنشاء سجل أكاديمي جديد (Create Record)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{"key": "Content-Type", "value": "application/json"},
+							{"key": "Accept", "value": "application/json"}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"official_name\": \"محمد أحمد العلي\",\n    \"normalized_name\": \"محمد احمد العلي\",\n    \"university_id\": \"ite_2024_0145\"\n}"
+						},
+						"url": {
+							"raw": "{{base_url}}/academic/records/",
+							"host": ["{{base_url}}"],
+							"path": ["academic", "records", ""]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "جلب علامات طالب محدد (Student Grades)",
+					"request": {
+						"method": "GET",
+						"header": [
+							{"key": "Accept", "value": "application/json"}
+						],
+						"url": {
+							"raw": "{{base_url}}/academic/records/1/grades/",
+							"host": ["{{base_url}}"],
+							"path": ["academic", "records", "1", "grades", ""]
+						},
+						"description": "عرض كافة العلامات المنشورة رسمياً لطالب محدد بمعرفه الداخلي."
+					},
+					"response": []
+				},
+				{
+					"name": "استعراض المقررات الدراسية (Courses)",
+					"request": {
+						"method": "GET",
+						"header": [
+							{"key": "Accept", "value": "application/json"}
+						],
+						"url": {
+							"raw": "{{base_url}}/academic/courses/?original_study_year=1&department=عام&semester=1",
+							"host": ["{{base_url}}"],
+							"path": ["academic", "courses", ""],
+							"query": [
+								{"key": "original_study_year", "value": "1", "description": "السنة الدراسية (1-5)"},
+								{"key": "department", "value": "عام", "description": "الاختصاص (عام / برمجيات / ذكاء / شبكات)"},
+								{"key": "semester", "value": "1", "description": "الفصل الدراسي (1 أو 2)"}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "استعراض السنوات الأكاديمية (Academic Years)",
+					"request": {
+						"method": "GET",
+						"header": [{"key": "Accept", "value": "application/json"}],
+						"url": {
+							"raw": "{{base_url}}/academic/years/",
+							"host": ["{{base_url}}"],
+							"path": ["academic", "years", ""]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "استعراض نطاقات النشر (Publication Scopes)",
+					"request": {
+						"method": "GET",
+						"header": [{"key": "Accept", "value": "application/json"}],
+						"url": {
+							"raw": "{{base_url}}/academic/scopes/?state=PUBLISHED",
+							"host": ["{{base_url}}"],
+							"path": ["academic", "scopes", ""],
+							"query": [
+								{"key": "state", "value": "PUBLISHED", "description": "حالة النشر (PENDING / PUBLISHED / STALE)"}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "استعراض العلامات الحالية المنشورة (Current Grades)",
+					"request": {
+						"method": "GET",
+						"header": [{"key": "Accept", "value": "application/json"}],
+						"url": {
+							"raw": "{{base_url}}/academic/grades/",
+							"host": ["{{base_url}}"],
+							"path": ["academic", "grades", ""]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "2. مزامنة درايف والمكتبة (Google Drive & Materials)",
+			"item": [
+				{
+					"name": "استعراض المواد والمحاضرات المفهرسة (Materials)",
+					"request": {
+						"method": "GET",
+						"header": [{"key": "Accept", "value": "application/json"}],
+						"url": {
+							"raw": "{{base_url}}/drive/materials/?study_year=1&category=محاضرات&course_name=",
+							"host": ["{{base_url}}"],
+							"path": ["drive", "materials", ""],
+							"query": [
+								{"key": "study_year", "value": "1", "description": "السنة الدراسية"},
+								{"key": "category", "value": "محاضرات", "description": "التصنيف (دورات / زنقة / سلالم / سلايدات / محاضرات / ملحق)"},
+								{"key": "course_name", "value": "", "description": "اسم المقرر"}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "استعراض ملفات درايف المسجلة (Drive Files)",
+					"request": {
+						"method": "GET",
+						"header": [{"key": "Accept", "value": "application/json"}],
+						"url": {
+							"raw": "{{base_url}}/drive/files/",
+							"host": ["{{base_url}}"],
+							"path": ["drive", "files", ""]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "استعراض إصدارات المصادر والوثائق (Source Revisions)",
+					"request": {
+						"method": "GET",
+						"header": [{"key": "Accept", "value": "application/json"}],
+						"url": {
+							"raw": "{{base_url}}/drive/revisions/",
+							"host": ["{{base_url}}"],
+							"path": ["drive", "revisions", ""]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "3. معالجة واستخراج العلامات (Ingestion Pipeline)",
+			"item": [
+				{
+					"name": "استعراض مهام المعالجة (Processing Jobs)",
+					"request": {
+						"method": "GET",
+						"header": [{"key": "Accept", "value": "application/json"}],
+						"url": {
+							"raw": "{{base_url}}/ingestion/jobs/?state=COMPLETED",
+							"host": ["{{base_url}}"],
+							"path": ["ingestion", "jobs", ""],
+							"query": [
+								{"key": "state", "value": "COMPLETED", "description": "PENDING / PROCESSING / COMPLETED / FAILED"}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "استعراض مرشحي المطابقة لمهمة محددة (Job Candidates)",
+					"request": {
+						"method": "GET",
+						"header": [{"key": "Accept", "value": "application/json"}],
+						"url": {
+							"raw": "{{base_url}}/ingestion/jobs/1/candidates/",
+							"host": ["{{base_url}}"],
+							"path": ["ingestion", "jobs", "1", "candidates", ""]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "إعادة تشغيل مهمة معالجة واستخراج (Trigger Job)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{"key": "Content-Type", "value": "application/json"},
+							{"key": "Accept", "value": "application/json"}
+						],
+						"url": {
+							"raw": "{{base_url}}/ingestion/jobs/1/trigger/",
+							"host": ["{{base_url}}"],
+							"path": ["ingestion", "jobs", "1", "trigger", ""]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "قائمة كافة مرشحي المطابقة (All Candidates)",
+					"request": {
+						"method": "GET",
+						"header": [{"key": "Accept", "value": "application/json"}],
+						"url": {
+							"raw": "{{base_url}}/ingestion/candidates/?status=VERIFIED",
+							"host": ["{{base_url}}"],
+							"path": ["ingestion", "candidates", ""],
+							"query": [
+								{"key": "status", "value": "VERIFIED", "description": "CANDIDATE / VERIFIED / AMBIGUOUS / REJECTED"}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "4. واجهة بوت تليغرام (Telegram Bot API)",
+			"item": [
+				{
+					"name": "استقبال الـ Webhook الرسمي (Webhook Endpoint)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{"key": "Content-Type", "value": "application/json"},
+							{"key": "X-Telegram-Bot-Api-Secret-Token", "value": "faheem_secret_webhook_key_2026", "description": "رمز الحماية السري"}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"update_id\": 10001,\n    \"message\": {\n        \"message_id\": 50,\n        \"from\": {\n            \"id\": 123456789,\n            \"is_bot\": false,\n            \"first_name\": \"أحمد\",\n            \"username\": \"ahmad_student\"\n        },\n        \"chat\": {\n            \"id\": 123456789,\n            \"type\": \"private\"\n        },\n        \"date\": 1732000000,\n        \"text\": \"/start\"\n    }\n}"
+						},
+						"url": {
+							"raw": "{{base_url}}/telegram/webhook/",
+							"host": ["{{base_url}}"],
+							"path": ["telegram", "webhook", ""]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "استعراض مستخدمي تليغرام (Telegram Users)",
+					"request": {
+						"method": "GET",
+						"header": [{"key": "Accept", "value": "application/json"}],
+						"url": {
+							"raw": "{{base_url}}/telegram/users/",
+							"host": ["{{base_url}}"],
+							"path": ["telegram", "users", ""]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "استعراض طلبات ربط الحسابات (Student Claims)",
+					"request": {
+						"method": "GET",
+						"header": [{"key": "Accept", "value": "application/json"}],
+						"url": {
+							"raw": "{{base_url}}/telegram/claims/?status=PENDING",
+							"host": ["{{base_url}}"],
+							"path": ["telegram", "claims", ""],
+							"query": [
+								{"key": "status", "value": "PENDING", "description": "PENDING / APPROVED / REJECTED"}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "5. الصندوق الصادر والعمليات (Operations & Outbox)",
+			"item": [
+				{
+					"name": "استعراض أحداث الصندوق الصادر (Outbox Events)",
+					"request": {
+						"method": "GET",
+						"header": [{"key": "Accept", "value": "application/json"}],
+						"url": {
+							"raw": "{{base_url}}/operations/events/?delivery_state=PENDING",
+							"host": ["{{base_url}}"],
+							"path": ["operations", "events", ""],
+							"query": [
+								{"key": "delivery_state", "value": "PENDING", "description": "PENDING / PROCESSING / DELIVERED / FAILED"}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "سجل محاولات إرسال الإشعارات (Notification Attempts)",
+					"request": {
+						"method": "GET",
+						"header": [{"key": "Accept", "value": "application/json"}],
+						"url": {
+							"raw": "{{base_url}}/operations/notifications/",
+							"host": ["{{base_url}}"],
+							"path": ["operations", "notifications", ""]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,101 @@
+# ==============================================================================
+# Faheem Project - Root .gitignore
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Private Documentation & Agent Internals (Explicit Exclusions)
+# ------------------------------------------------------------------------------
+Faheem_Complete_Documentation_DSD_v2_0/
+_bmad-output/
+_bmad/
+.agents/
+خطط العمل/
+حساب غوغل.txt
+
+# ------------------------------------------------------------------------------
+# 2. Secrets, Environment Variables & API Credentials (NEVER COMMIT)
+# ------------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.env
+**/.env
+**/.env.*
+!**/.env.example
+credentials.json
+**/credentials.json
+token.json
+**/token.json
+client_secrets.json
+service_account.json
+*.pem
+*.key
+*.p12
+
+# ------------------------------------------------------------------------------
+# 3. Virtual Environments
+# ------------------------------------------------------------------------------
+FaheemBE/Include/
+FaheemBE/Lib/
+FaheemBE/Scripts/
+FaheemBE/pyvenv.cfg
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ------------------------------------------------------------------------------
+# 4. Database & Dynamic Storage
+# ------------------------------------------------------------------------------
+*.sqlite3
+*.sqlite3-journal
+db.sqlite3
+**/db.sqlite3
+**/db.sqlite3-journal
+media/
+**/media/
+staticfiles/
+**/staticfiles/
+
+# ------------------------------------------------------------------------------
+# 5. Python Artifacts & Caches
+# ------------------------------------------------------------------------------
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+local_settings.py
+*.log
+**/*.log
+
+# ------------------------------------------------------------------------------
+# 6. IDE, Editors & OS Files
+# ------------------------------------------------------------------------------
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+Desktop.ini
